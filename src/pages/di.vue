@@ -57,11 +57,16 @@ export default {
         widows: 100%;
         background: #fff;
         text-align: center;
+        z-index: 999;
     }
     #di ul{
         display: flex;
         align-items: center;
         justify-content: space-around;
+    }
+    #di li{
+        /* width: 33.3%; */
+        text-align: center;
     }
     #di p{
         color: gray;
@@ -74,6 +79,7 @@ export default {
         background: url("../components/img/nav.png")no-repeat;
         background-position: 0 -50px;
         background-size: 250px auto;
+        font-size: 0.5rem;
     }
     #di .nav1{
         background-position: 0 -50px;
