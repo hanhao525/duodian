@@ -121,7 +121,15 @@
              </li>
            </ul>
          </div>
-         <!--  -->
+         <!-- 主题乐园 -->
+         <div class="zhuti">
+           <div class="zt-f">
+             <img src="../components/img/zhu.png" alt="">
+           </div>
+         </div>
+       </div>
+       <div class="liu">
+
        </div>
    </div>
 </template>
@@ -235,5 +243,8 @@ export default {
     .mould li img{
       width: 100%;
       height: 3rem;
+    }
+    .liu{
+      height: 10rem;
     }
 </style>
