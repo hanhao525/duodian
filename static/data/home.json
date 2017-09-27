@@ -1,0 +1,671 @@
+{
+    "data": {
+        "currentPage": 1,
+        "hasMore": true,
+        "pageModules": [
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/16fad7c2-0dbf-4ef2-8d1c-eaf3c537c184_750H",
+                        "resource": "https://a.dmall.com/act/Kqv6AGSnWXf.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/303c6bec-9553-4d4b-bde4-ae0836d7743b_750H",
+                        "resource": "https://a.dmall.com/act/rw8Ut4JMFW.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/62ae3279-e0d9-4810-ae81-2aa678fe67eb_750H",
+                        "resource": "http://act.qb-jr.com/f/special/activity128/dd/30031?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/281b6aa2-2120-4ac8-8b8d-3f4f9557b36a_750H",
+                        "resource": "https://a.dmall.com/act/2aNpGJKjM5u63g.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/d93575a1-24ce-4382-bae8-242a535d8356_750H",
+                        "resource": "https://a.dmall.com/act/wXxFnEU7rhuIAM.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 5,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/2a3055d8-7013-4964-af8b-1ecc8f1484fc_750H",
+                        "resource": "https://a.dmall.com/act/kRAYE36XBUivo5mw.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 6,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "首焦-O2O",
+                    "heightWideRatio": 0.47,
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "首焦-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 1
+            },
+            {
+                "dataList": [],
+                "displayType": 139,
+                "groupFeature": {
+                    "title": "搜索栏-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 139,
+                "name": "搜索栏-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 2,
+                "spId": -1
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "早晚市",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/fbbb4d8e-fdcb-46bf-b534-e12b64e79491_240x240H",
+                        "remark": "早晚市",
+                        "resource": "https://a.dmall.com/act/iDTYc5W83onqxPsF.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "进店必买",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/6ec84a93-44dc-46d5-8db6-db29390a8356_240x240H",
+                        "remark": "进店必买",
+                        "resource": "https://a.dmall.com/act/BOmu5nqkCRsKahx.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "多点优选",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/f5342e6b-ca02-49bd-8dfb-75b5c73306c6_240x240H",
+                        "remark": "多点优选",
+                        "resource": "https://a.dmall.com/act/Kg25IUBTOb8tX.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "良唯省",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/91d50d1b-b546-44ce-8ff2-3b4afce718dd_240x240H",
+                        "remark": "良唯省",
+                        "resource": "https://a.dmall.com/act/BjgioaC5etRJv.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "自由购",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "extraTag": 1,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/e41a19e6-059d-4033-86ff-ee7765881ec5_240x240H",
+                        "remark": "自由购",
+                        "resource": "rn://selfcheckout/selfcheckout.jsbundle/DmallReactNative?dmShowTitleBar=false&erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 5,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 120,
+                "groupFeature": {
+                    "title": "上功能区旧-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 120,
+                "name": "上功能区旧-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 4
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "常购清单",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/c05c0be1-d9df-43fa-a10c-5f40b9b1079c_240x240H",
+                        "remark": "常购清单",
+                        "resource": "http://act.m.dmall.com/special/tongyongmoban/2016-05-31/91.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "母婴天地",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/99463ff4-f18d-4f67-a27c-aa0954c1db48_240x240H",
+                        "remark": "母婴天地",
+                        "resource": "https://a.dmall.com/act/rw8Ut4JMFW.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "领券中心",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/2c6d16db-0fa6-49da-bd8b-e21a0bd31127_240x240H",
+                        "remark": "领券中心",
+                        "resource": "https://a.dmall.com/act/QJwRMXETcVvg.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "多点四季",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/d38916ce-9d56-40f4-8218-e5e81aae1c94_240x240H",
+                        "remark": "多点四季",
+                        "resource": "https://a.dmall.com/act/rIxLSOeDUcpCX.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "会员专享",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/063a3bf7-2805-4ec1-8c48-4941dde1be87_240x240H",
+                        "remark": "会员专享",
+                        "resource": "https://a.dmall.com/act/YZ46RiPclCrfw1U5.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 5,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 120,
+                "groupFeature": {
+                    "title": "下功能区旧-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 120,
+                "name": "下功能区旧-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 6
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/1c166c13-c3fd-44d9-8760-02060a97beb1_750H",
+                        "resource": "https://a.dmall.com/act/WyxJnF8QDeEdtz.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "周三周末异形-O2O",
+                    "heightWideRatio": 0.37,
+                    "ratio": 1,
+                    "margin": 20,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "周三周末异形-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 7
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/bb913e45-fd61-4520-9b05-c5e7d29a8452_750H",
+                        "resource": "https://a.dmall.com/act/fDSd15kLx3aXqn.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "月饼六折起-O2O",
+                    "heightWideRatio": 0.32,
+                    "ratio": 1,
+                    "margin": 20,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "月饼六折起-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 8
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/c3441010-da57-494f-a968-1dd4bcabdb2c_360x360H",
+                        "resource": "https://a.dmall.com/act/gAU3TMBJIe.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/8bc8c801-defa-4b5f-828f-636c61844697_360x360H",
+                        "resource": "https://a.dmall.com/act/CDW5wOJy3pmPKVd.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/8c78e9c4-10e7-4ee2-9cc9-e3886160bd51_360x360H",
+                        "resource": "https://a.dmall.com/act/xQDZTINoaqF3f4.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 140,
+                "groupFeature": {
+                    "showHoleBar": false,
+                    "title": "超市优选上-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 140,
+                "name": "超市优选上-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 9
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/7fedee1b-c15c-47ab-bee4-3cdfaca02ad6_360x360H",
+                        "resource": "https://a.dmall.com/act/j6UPD7yl8a1vpR.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/681409a3-2033-4a3b-9401-e48418c79795_360x360H",
+                        "resource": "https://a.dmall.com/act/nojqA5kgBE.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/07709044-5bfd-4a2a-92eb-73359a24193a_360x360H",
+                        "resource": "https://a.dmall.com/act/LGZD8sEAWr6jv.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458998",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 140,
+                "groupFeature": {
+                    "showHoleBar": false,
+                    "title": "超市优选中-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 140,
+                "name": "超市优选中-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 10
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/e820e927-2c00-4ab2-be4a-ebbb09e40a2c_360x360H",
+                        "resource": "https://a.dmall.com/act/VU1BwLueWMdO.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/e628790d-c895-45dc-8797-03e2a360e58c_360x360H",
+                        "resource": "https://a.dmall.com/act/kpw0HZbWRsyDKn3a.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/f8c5628d-0070-41c2-9cd3-0e25e9eeaebe_360x360H",
+                        "resource": "https://a.dmall.com/act/6z1nbKY7si2TOrjM.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 140,
+                "groupFeature": {
+                    "showHoleBar": false,
+                    "title": "超市优选下-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 140,
+                "name": "超市优选下-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 11
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/fd348b95-770c-49de-8bbc-98248be0ec60_750H",
+                        "resource": "",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "一拖二分类条-O2O",
+                    "heightWideRatio": 0.09,
+                    "ratio": 1,
+                    "margin": 20,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "一拖二分类条-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 12
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/49537cbb-b637-4b8a-8a43-aff09548255c_480x480H",
+                        "resource": "https://a.dmall.com/act/DesGcNw6BS28EH.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/0c5c2a70-3285-47b3-ae58-f3f760950b18_480x480H",
+                        "resource": "https://a.dmall.com/act/MDSZzTRsqJC0.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/56049392-c320-43e3-939e-1f090495c015_480x480H",
+                        "resource": "https://a.dmall.com/act/iptEukxCeNg.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 134,
+                "groupFeature": {
+                    "title": "一拖二 -O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 134,
+                "name": "一拖二 -O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 13
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/68f1779c-4715-4389-b8b2-0893af1d12b9_750H",
+                        "resource": "https://a.dmall.com/act/1yFC27dOvHne.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "第一层腰通-O2O",
+                    "heightWideRatio": 0.2,
+                    "ratio": 1,
+                    "margin": 20,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "第一层腰通-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 14
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/e679e542-62be-4ba9-8ae2-448a5caa79bf_750H",
+                        "resource": "",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "生活常伴分类条-O2O",
+                    "heightWideRatio": 0.09,
+                    "ratio": 1,
+                    "margin": 20,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "生活常伴分类条-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 15
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/1227f395-8e67-4f21-a45a-85b9923a4f98_480x480H",
+                        "resource": "https://a.dmall.com/act/TzfRxZyYIt.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/8e2e0cdf-34a3-4c97-9ebe-c26b9b7a1028_480x480H",
+                        "resource": "https://a.dmall.com/act/iNwZRaJGol.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/34ead4c4-44e3-4745-ad4d-03ad0cb27ebb_480x480H",
+                        "resource": "https://a.dmall.com/act/TR1LozEvdn.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/54d19a18-8ce5-4f9b-9d7c-dc033b6c3ae5_480x480H",
+                        "resource": "https://a.dmall.com/act/63Kic0zEHj.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/b7339ec5-e7dc-4a6c-8779-e1e092ba7c8f_480x480H",
+                        "resource": "https://a.dmall.com/act/C2magxP6K0r.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 5,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/1ca28ba2-6b53-4b71-84fd-5caca62f3884_480x480H",
+                        "resource": "https://a.dmall.com/act/Jf8p7GiszP.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 6,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 135,
+                "groupFeature": {
+                    "title": "生活常伴-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 135,
+                "name": "生活常伴-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 16
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/0c442c04-e797-4acc-9fa4-98898ecfa46b_750H",
+                        "resource": "https://a.dmall.com/act/z37uDl6fP215dYHG.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506474458999",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "第二层腰通-O2O",
+                    "heightWideRatio": 0.2,
+                    "ratio": 1,
+                    "margin": 20,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "第二层腰通-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 17
+            }
+        ]
+    },
+    "errCode": "0000",
+    "errMsg": ""
+}

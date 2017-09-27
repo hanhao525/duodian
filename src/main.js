@@ -7,6 +7,9 @@ import App from './App'
 //如果引入的是文件夹内部的index.js文件 可以省略不写index
 import router from './router'
 
+//引入axios
+import axios from 'axios'
+Vue.prototype.axios = axios;
 //全局样式
 import './assets/css/reset.css';
 

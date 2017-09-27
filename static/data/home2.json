@@ -1,0 +1,3320 @@
+{
+    "data": {
+        "currentPage": 3,
+        "hasMore": false,
+        "pageModules": [
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/28541974-a8d8-45a1-893d-74e34e204c72_750H",
+                        "resource": "https://a.dmall.com/act/CtKhlLaZmzV.html?erpStoreId=10445&dmfrom=wx&from=wx&shareKey=1506476392308",
+                        "sort": 1,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "第三层腰通-O2O",
+                    "heightWideRatio": 0.2,
+                    "ratio": 1,
+                    "margin": 10,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "第三层腰通-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 33
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/a71cdb1f-4c27-4ea7-ab68-7b5ca76d9942_750H",
+                        "resource": "",
+                        "sort": 1,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "重点食品饮料分栏-O2O",
+                    "heightWideRatio": 0.13,
+                    "ratio": 1,
+                    "margin": 10,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "重点食品饮料分栏-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 34
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1390,
+                            "stock": 8,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "可口可乐 330ml*6",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "可口可乐 330ml*6",
+                                "img": "https://img.dmallcdn.com/20170727/8e1c43f2-6288-484f-8306-a01a1fceab76_360x360H",
+                                "skuId": 118603,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 118603,
+                            "promotionPrice": 960
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170727/8e1c43f2-6288-484f-8306-a01a1fceab76_360x360H",
+                        "resource": "118603",
+                        "sort": 1,
+                        "spId": 118603,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 500,
+                            "stock": 27,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "信远斋桂花酸梅汤 300ml",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "信远斋桂花酸梅汤 300ml",
+                                "img": "https://img.dmallcdn.com/20170804/5e5c9091-8b54-477f-bbcd-8ffdf9f4c268_360x360H",
+                                "skuId": 118607,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 118607,
+                            "promotionPrice": 500
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170804/5e5c9091-8b54-477f-bbcd-8ffdf9f4c268_360x360H",
+                        "resource": "118607",
+                        "sort": 2,
+                        "spId": 118607,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 560,
+                            "stock": 46,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "红牛饮料 250ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "红牛饮料 250ml",
+                                "img": "https://img.dmallcdn.com/20170817/ea7ddec0-3f76-4acc-9dbc-42b465fbfcbf_360x360H",
+                                "skuId": 119478,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 119478,
+                            "promotionPrice": 520
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/ea7ddec0-3f76-4acc-9dbc-42b465fbfcbf_360x360H",
+                        "resource": "119478",
+                        "sort": 3,
+                        "spId": 119478,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "重点饮料商品-O2O",
+                    "ratio": 1,
+                    "margin": 2,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "重点饮料商品-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 35
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2100,
+                            "stock": 15,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "雪花精制啤酒 330ml*6",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "雪花精制啤酒 330ml*6",
+                                "img": "https://img.dmallcdn.com/20170709/4c4a77e3-8624-45b1-bc99-21887badd86b_360x360H",
+                                "skuId": 100215239,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100215239,
+                            "promotionPrice": 2100
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170709/4c4a77e3-8624-45b1-bc99-21887badd86b_360x360H",
+                        "resource": "100215239",
+                        "sort": 1,
+                        "spId": 100215239,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1860,
+                            "stock": 5,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "牛栏山二锅头42度 2L",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "牛栏山二锅头42度 2L",
+                                "img": "https://img.dmallcdn.com/20170704/b725305d-7490-45b4-9fc4-1f40c409662b_360x360H",
+                                "skuId": 120890,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 120890,
+                            "promotionPrice": 1860
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170704/b725305d-7490-45b4-9fc4-1f40c409662b_360x360H",
+                        "resource": "120890",
+                        "sort": 2,
+                        "spId": 120890,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 300,
+                            "stock": 39,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "百士纯生态听啤 320ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "百士纯生态听啤 320ml",
+                                "img": "https://img.dmallcdn.com/20160806/04a9e7cb-630e-41f6-9f27-40934cacb7b1_360x360H",
+                                "skuId": 100227966,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100227966,
+                            "promotionPrice": 100
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160806/04a9e7cb-630e-41f6-9f27-40934cacb7b1_360x360H",
+                        "resource": "100227966",
+                        "sort": 3,
+                        "spId": 100227966,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "重点酒水商品-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "重点酒水商品-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 36
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 980,
+                            "stock": 87,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "费列罗榛果威化巧克力 37.5g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "费列罗榛果威化巧克力 37.5g",
+                                "img": "https://img.dmallcdn.com/20161112/89b2a6bc-4380-4dab-93ff-cd9f301c1226_360x360H",
+                                "skuId": 116173,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 116173,
+                            "promotionPrice": 790
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161112/89b2a6bc-4380-4dab-93ff-cd9f301c1226_360x360H",
+                        "resource": "116173",
+                        "sort": 1,
+                        "spId": 116173,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 890,
+                            "stock": 20,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "洽洽香瓜子 236g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "洽洽香瓜子 236g",
+                                "img": "https://img.dmallcdn.com/20170807/dc8d816d-33a3-44d7-8356-d8b2d77f7a7c_360x360H",
+                                "skuId": 100201875,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100201875,
+                            "promotionPrice": 699
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/dc8d816d-33a3-44d7-8356-d8b2d77f7a7c_360x360H",
+                        "resource": "100201875",
+                        "sort": 2,
+                        "spId": 100201875,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 350,
+                            "stock": 7,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "上好佳大鲜虾条 40g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "上好佳大鲜虾条 40g",
+                                "img": "https://img.dmallcdn.com/20161123/6e1f50e5-330d-4e3b-a792-d7bb0127e15a_360x360H",
+                                "skuId": 114862,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 114862,
+                            "promotionPrice": 350
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161123/6e1f50e5-330d-4e3b-a792-d7bb0127e15a_360x360H",
+                        "resource": "114862",
+                        "sort": 3,
+                        "spId": 114862,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "重点休食商品-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "重点休食商品-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 37
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/00ba2380-8e30-4ace-a763-ef6863eee044_750H",
+                        "resource": "",
+                        "sort": 1,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "重点百货分栏-O2O",
+                    "heightWideRatio": 0.13,
+                    "ratio": 1,
+                    "margin": 10,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "重点百货分栏-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 38
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3190,
+                            "stock": 13,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "维达超韧三层无芯卷纸 1800g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "维达超韧三层无芯卷纸 1800g",
+                                "img": "https://img.dmallcdn.com/20170103/d3f67e1c-3991-4675-9890-98fa1068ca37_360x360H",
+                                "skuId": 122860,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 122860,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170103/d3f67e1c-3991-4675-9890-98fa1068ca37_360x360H",
+                        "resource": "122860",
+                        "sort": 1,
+                        "spId": 122860,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1590,
+                            "stock": 71,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "心相印红悦三层抽纸  270张*6",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "心相印红悦三层抽纸  270张*6",
+                                "img": "https://img.dmallcdn.com/20170914/c2ec8cb7-d6a1-4f54-8299-3b0a004b1135_360x360H",
+                                "skuId": 180223,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 180223,
+                            "promotionPrice": 1280
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170914/c2ec8cb7-d6a1-4f54-8299-3b0a004b1135_360x360H",
+                        "resource": "180223",
+                        "sort": 2,
+                        "spId": 180223,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 4140,
+                            "stock": 7,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "顺清柔出口装超柔四层卷纸 2.2kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "顺清柔出口装超柔四层卷纸 2.2kg",
+                                "img": "https://img.dmallcdn.com/201503/ff7c4b57-7cd8-4fa0-ab6d-e80d6678e5d5_360x360H",
+                                "skuId": 124042,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 124042,
+                            "promotionPrice": 3500
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/201503/ff7c4b57-7cd8-4fa0-ab6d-e80d6678e5d5_360x360H",
+                        "resource": "124042",
+                        "sort": 3,
+                        "spId": 124042,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "重点清洁商品-O2O",
+                    "ratio": 1,
+                    "margin": 2,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "重点清洁商品-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 39
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 710,
+                            "stock": 28,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "中华健齿白牙膏 清新薄荷味 200g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "中华健齿白牙膏 清新薄荷味 200g",
+                                "img": "https://img.dmallcdn.com/20170704/53da7da4-fe47-47ba-9006-b405824bcb3f_360x360H",
+                                "skuId": 100002967,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100002967,
+                            "promotionPrice": 710
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170704/53da7da4-fe47-47ba-9006-b405824bcb3f_360x360H",
+                        "resource": "100002967",
+                        "sort": 1,
+                        "spId": 100002967,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1690,
+                            "stock": 65,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "苏菲弹力贴身洁翼夜用卫生巾290mm 15片",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "苏菲弹力贴身洁翼夜用卫生巾290mm 15片",
+                                "img": "https://img.dmallcdn.com/20170727/7efe2e6f-4e42-4b73-9596-0ff5d56adadc_360x360H",
+                                "skuId": 125225,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 125225,
+                            "promotionPrice": 1690
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170727/7efe2e6f-4e42-4b73-9596-0ff5d56adadc_360x360H",
+                        "resource": "125225",
+                        "sort": 2,
+                        "spId": 125225,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 850,
+                            "stock": 33,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "高洁丝小Q包丝薄护垫 无香 40片",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "高洁丝小Q包丝薄护垫 无香 40片",
+                                "img": "https://img.dmallcdn.com/20170817/57f022bc-5a16-4447-b751-ed2fb3c6f1dd_360x360H",
+                                "skuId": 123829,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 123829,
+                            "promotionPrice": 750
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/57f022bc-5a16-4447-b751-ed2fb3c6f1dd_360x360H",
+                        "resource": "123829",
+                        "sort": 3,
+                        "spId": 123829,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "重点个护商品-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "重点个护商品-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 40
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 690,
+                            "stock": 74,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "爱特福84消毒液 840ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "爱特福84消毒液 840ml",
+                                "img": "https://img.dmallcdn.com/20170220/351c4931-519e-4c03-a95d-24caaad27053_360x360H",
+                                "skuId": 130086,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 130086,
+                            "promotionPrice": 299
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170220/351c4931-519e-4c03-a95d-24caaad27053_360x360H",
+                        "resource": "130086",
+                        "sort": 1,
+                        "spId": 130086,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 975,
+                            "stock": 7,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": " 心相印双层厨房用纸 2粒装",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": " 心相印双层厨房用纸 2粒装",
+                                "img": "https://img.dmallcdn.com/20161106/581a0ef8-9bc6-42be-b086-c97466d2b948_360x360H",
+                                "skuId": 122782,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 122782,
+                            "promotionPrice": 975
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161106/581a0ef8-9bc6-42be-b086-c97466d2b948_360x360H",
+                        "resource": "122782",
+                        "sort": 2,
+                        "spId": 122782,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 390,
+                            "stock": 31,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "金鱼洁厕灵 500g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "金鱼洁厕灵 500g",
+                                "img": "https://img.dmallcdn.com/20161209/cbc5db38-cbf5-4757-9c98-7492a78bc0ff_360x360H",
+                                "skuId": 130015,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 130015,
+                            "promotionPrice": 390
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161209/cbc5db38-cbf5-4757-9c98-7492a78bc0ff_360x360H",
+                        "resource": "130015",
+                        "sort": 3,
+                        "spId": 130015,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "重点厨卫商品-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "重点厨卫商品-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 41
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 390,
+                            "stock": 62,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "妙洁抽取式保鲜袋中号",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "妙洁抽取式保鲜袋中号",
+                                "img": "https://img.dmallcdn.com/20161112/9ebb65d2-c6d8-423e-aaf0-ac4503f4a39e_360x360H",
+                                "skuId": 130433,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 130433,
+                            "promotionPrice": 390
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161112/9ebb65d2-c6d8-423e-aaf0-ac4503f4a39e_360x360H",
+                        "resource": "130433",
+                        "sort": 1,
+                        "spId": 130433,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 299,
+                            "stock": 10,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "筑福擦手巾 29*41cm c-8503",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "筑福擦手巾 29*41cm c-8503",
+                                "img": "https://img.dmallcdn.com/20170817/682d4158-44d5-4aac-9a0b-0b164ab15e8c_360x360H",
+                                "skuId": 100316059,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100316059,
+                            "promotionPrice": 299
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/682d4158-44d5-4aac-9a0b-0b164ab15e8c_360x360H",
+                        "resource": "100316059",
+                        "sort": 2,
+                        "spId": 100316059,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/238/2_360x360H"
+                            ],
+                            "price": 1390,
+                            "stock": 34,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "给你省促销装纸杯 100只 ",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "给你省促销装纸杯 100只 ",
+                                "img": "https://img.dmallcdn.com/20170808/e6791539-ae47-409f-b2c2-77951bdf5295_360x360H",
+                                "skuId": 100185725,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100185725,
+                            "promotionPrice": 990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170808/e6791539-ae47-409f-b2c2-77951bdf5295_360x360H",
+                        "resource": "100185725",
+                        "sort": 3,
+                        "spId": 100185725,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "重点百货商品-O2O",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "重点百货商品-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 42
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/d44c0e59-3b68-477f-8ee3-af7aeb60eeb5_750H",
+                        "resource": "https://a.dmall.com/act/TpZmOJa047.html?erpStoreId=10445&dmfrom=wx&from=wx&shareKey=1506476392308",
+                        "sort": 1,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "第四层腰通-O2O",
+                    "heightWideRatio": 0.2,
+                    "ratio": 1,
+                    "margin": 10,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "第四层腰通-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 43
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/2c5c8092-0662-468e-a1d7-890c373efd09_750H",
+                        "resource": "",
+                        "sort": 1,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "重点猜你喜欢分栏-O2O",
+                    "heightWideRatio": 0.13,
+                    "ratio": 1,
+                    "margin": 10,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "重点猜你喜欢分栏-O2O",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 44
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 99,
+                            "stock": 50,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "油菜【袋】",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品买赠促销",
+                                    "subTypeName": "买赠",
+                                    "subType": 201,
+                                    "type": 2
+                                }
+                            ],
+                            "promotionDisplayLable": "买赠",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "油菜【袋】",
+                                "img": "https://img.dmallcdn.com/20170807/d0da489f-6f7d-483f-8547-4a19df9fd979_360x360H",
+                                "skuId": 100327410,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100327410,
+                            "promotionPrice": 99
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/d0da489f-6f7d-483f-8547-4a19df9fd979_360x360H",
+                        "resource": "100327410",
+                        "sort": 1,
+                        "spId": 100327410,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 399,
+                            "stock": 30,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "娃娃菜【精】500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "娃娃菜【精】500g",
+                                "img": "https://img.dmallcdn.com/20170807/cdc41718-349a-486f-a1ea-0914679d7cbd_360x360H",
+                                "skuId": 100276383,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100276383,
+                            "promotionPrice": 338
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/cdc41718-349a-486f-a1ea-0914679d7cbd_360x360H",
+                        "resource": "100276383",
+                        "sort": 2,
+                        "spId": 100276383,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 500,
+                            "stock": 14,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "大葱 3根",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "大葱 3根",
+                                "img": "https://img.dmallcdn.com/20170807/999460c3-a527-42af-889a-63e6b3adb563_360x360H",
+                                "skuId": 100344177,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100344177,
+                            "promotionPrice": 500
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/999460c3-a527-42af-889a-63e6b3adb563_360x360H",
+                        "resource": "100344177",
+                        "sort": 3,
+                        "spId": 100344177,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 400,
+                            "stock": 80,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "蒜苔 1把 ",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "蒜苔 1把 ",
+                                "img": "https://img.dmallcdn.com/20170828/3da9cfbc-ee07-4a08-9898-1a815c4fc8f0_360x360H",
+                                "skuId": 100350515,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100350515,
+                            "promotionPrice": 400
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170828/3da9cfbc-ee07-4a08-9898-1a815c4fc8f0_360x360H",
+                        "resource": "100350515",
+                        "sort": 4,
+                        "spId": 100350515,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 220,
+                            "stock": 37,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "青椒 2粒",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "青椒 2粒",
+                                "img": "https://img.dmallcdn.com/20170804/41b1893c-8270-45f9-b2d9-947abb8b52e0_360x360H",
+                                "skuId": 105901,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 105901,
+                            "promotionPrice": 220
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170804/41b1893c-8270-45f9-b2d9-947abb8b52e0_360x360H",
+                        "resource": "105901",
+                        "sort": 5,
+                        "spId": 105901,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 600,
+                            "stock": 21,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "莲藕 2粒",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "莲藕 2粒",
+                                "img": "https://img.dmallcdn.com/20170817/cdd3d1a2-860d-40e4-984c-7c51ef7a0243_360x360H",
+                                "skuId": 105946,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 105946,
+                            "promotionPrice": 600
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/cdd3d1a2-860d-40e4-984c-7c51ef7a0243_360x360H",
+                        "resource": "105946",
+                        "sort": 6,
+                        "spId": 105946,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 99,
+                            "stock": 63,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "快菜【捆】",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品买赠促销",
+                                    "subTypeName": "买赠",
+                                    "subType": 201,
+                                    "type": 2
+                                }
+                            ],
+                            "promotionDisplayLable": "买赠",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "快菜【捆】",
+                                "img": "https://img.dmallcdn.com/20170807/adc6e852-41e0-4c4f-b5f0-ded2eb73b8bd_360x360H",
+                                "skuId": 100327421,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100327421,
+                            "promotionPrice": 99
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/adc6e852-41e0-4c4f-b5f0-ded2eb73b8bd_360x360H",
+                        "resource": "100327421",
+                        "sort": 7,
+                        "spId": 100327421,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 650,
+                            "stock": 47,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "完达山大果粒酸奶 草莓 180g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "完达山大果粒酸奶 草莓 180g",
+                                "img": "https://img.dmallcdn.com/201503/55496484-0ec4-4ee6-bb9e-87191b3607e6_360x360H",
+                                "skuId": 122092,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 122092,
+                            "promotionPrice": 299
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/201503/55496484-0ec4-4ee6-bb9e-87191b3607e6_360x360H",
+                        "resource": "122092",
+                        "sort": 8,
+                        "spId": 122092,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 660,
+                            "stock": 19,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "完达山蓝莓+树莓+蔓越莓大果粒酸奶 180g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "完达山蓝莓+树莓+蔓越莓大果粒酸奶 180g",
+                                "img": "https://img.dmallcdn.com/20170228/ea19b76c-e234-4e9c-9a69-8b74c3422489_360x360H",
+                                "skuId": 100219362,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100219362,
+                            "promotionPrice": 299
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170228/ea19b76c-e234-4e9c-9a69-8b74c3422489_360x360H",
+                        "resource": "100219362",
+                        "sort": 9,
+                        "spId": 100219362,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1280,
+                            "stock": 21,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "蒙牛酸奶八连杯 黄桃 100g*8",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "蒙牛酸奶八连杯 黄桃 100g*8",
+                                "img": "https://img.dmallcdn.com/20170801/c4b5fd9a-353e-4a05-8692-0a86a98ac1d7_360x360H",
+                                "skuId": 100188320,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100188320,
+                            "promotionPrice": 990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170801/c4b5fd9a-353e-4a05-8692-0a86a98ac1d7_360x360H",
+                        "resource": "100188320",
+                        "sort": 10,
+                        "spId": 100188320,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 790,
+                            "stock": 17,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "三元酸奶 草莓+树莓 480g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "三元酸奶 草莓+树莓 480g",
+                                "img": "https://img.dmallcdn.com/20160116/ad7e4ad1-8d88-4213-8598-0618d5466142_360x360H",
+                                "skuId": 121118,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121118,
+                            "promotionPrice": 489
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160116/ad7e4ad1-8d88-4213-8598-0618d5466142_360x360H",
+                        "resource": "121118",
+                        "sort": 11,
+                        "spId": 121118,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 550,
+                            "stock": 399,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "伊利安慕希希腊风味酸奶 香草味 205g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "伊利安慕希希腊风味酸奶 香草味 205g",
+                                "img": "https://img.dmallcdn.com/20170817/d65b43e0-df99-4526-962d-1d02e5ef3bcc_360x360H",
+                                "skuId": 100242909,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100242909,
+                            "promotionPrice": 499
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/d65b43e0-df99-4526-962d-1d02e5ef3bcc_360x360H",
+                        "resource": "100242909",
+                        "sort": 12,
+                        "spId": 100242909,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 500,
+                            "stock": 89,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "伊利味可滋巧克力牛奶 240ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "45元12件",
+                                    "subType": 302,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "45元12件",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "伊利味可滋巧克力牛奶 240ml",
+                                "img": "https://img.dmallcdn.com/20160804/05724998-8799-453c-8cf4-6544a1ae568a_360x360H",
+                                "skuId": 100215381,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100215381,
+                            "promotionPrice": 500
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160804/05724998-8799-453c-8cf4-6544a1ae568a_360x360H",
+                        "resource": "100215381",
+                        "sort": 13,
+                        "spId": 100215381,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 180,
+                            "stock": 32,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "蒙牛百利包早餐奶 麦香 200ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满3免1",
+                                    "subType": 304,
+                                    "type": 3
+                                },
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "满3免1",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "蒙牛百利包早餐奶 麦香 200ml",
+                                "img": "https://img.dmallcdn.com/20170817/7d9dd8d7-bdfb-4aca-903d-bfda7f475217_360x360H",
+                                "skuId": 121256,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121256,
+                            "promotionPrice": 168
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/7d9dd8d7-bdfb-4aca-903d-bfda7f475217_360x360H",
+                        "resource": "121256",
+                        "sort": 14,
+                        "spId": 121256,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "stock": 0,
+                            "cornerSign": [],
+                            "price": 650,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "巨丰葡萄  700g/1份",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "巨丰葡萄  700g/1份",
+                                "img": "https://img.dmallcdn.com/20170807/192b9857-6b79-41dd-bd06-b15e122c5dae_360x360H",
+                                "skuId": 104171,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 104171,
+                            "promotionPrice": 599
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/192b9857-6b79-41dd-bd06-b15e122c5dae_360x360H",
+                        "resource": "104171",
+                        "sort": 15,
+                        "spId": 104171,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 780,
+                            "stock": 39,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "冬枣 500g/份",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "冬枣 500g/份",
+                                "img": "https://img.dmallcdn.com/20161110/c06a2040-e08c-4f84-8f98-66dc0f28b172_360x360H",
+                                "skuId": 100202466,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100202466,
+                            "promotionPrice": 660
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161110/c06a2040-e08c-4f84-8f98-66dc0f28b172_360x360H",
+                        "resource": "100202466",
+                        "sort": 16,
+                        "spId": 100202466,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1250,
+                            "stock": 32,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "黄元帅苹果 4粒",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "黄元帅苹果 4粒",
+                                "img": "https://img.dmallcdn.com/20170807/1faa5aaa-c897-4098-b985-c844ec6774e2_360x360H",
+                                "skuId": 100068,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100068,
+                            "promotionPrice": 1250
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/1faa5aaa-c897-4098-b985-c844ec6774e2_360x360H",
+                        "resource": "100068",
+                        "sort": 17,
+                        "spId": 100068,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1010,
+                            "stock": 880,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "福建蜜柚 1粒",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "福建蜜柚 1粒",
+                                "img": "https://img.dmallcdn.com/20161024/43d09b57-4816-4e16-a8f6-5c8cff3b01e4_360x360H",
+                                "skuId": 100255844,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100255844,
+                            "promotionPrice": 990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161024/43d09b57-4816-4e16-a8f6-5c8cff3b01e4_360x360H",
+                        "resource": "100255844",
+                        "sort": 18,
+                        "spId": 100255844,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2880,
+                            "stock": 999,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "鸡翅中 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "鸡翅中 500g",
+                                "img": "https://img.dmallcdn.com/20170817/ed88338e-9c74-41f4-a724-abe00841f366_360x360H",
+                                "skuId": 111476,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 111476,
+                            "promotionPrice": 2199
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/ed88338e-9c74-41f4-a724-abe00841f366_360x360H",
+                        "resource": "111476",
+                        "sort": 19,
+                        "spId": 111476,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 990,
+                            "stock": 999,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "鸡大胸 500g/份",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "鸡大胸 500g/份",
+                                "img": "https://img.dmallcdn.com/20170817/aace5f22-b676-4f9f-bed9-159457f3c2e2_360x360H",
+                                "skuId": 111481,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 111481,
+                            "promotionPrice": 690
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/aace5f22-b676-4f9f-bed9-159457f3c2e2_360x360H",
+                        "resource": "111481",
+                        "sort": 20,
+                        "spId": 111481,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 890,
+                            "stock": 999,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "琵琶腿 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "琵琶腿 500g",
+                                "img": "https://img.dmallcdn.com/20170817/9dd6fe5e-541f-41eb-8ab8-f21865df2a77_360x360H",
+                                "skuId": 111480,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 111480,
+                            "promotionPrice": 590
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/9dd6fe5e-541f-41eb-8ab8-f21865df2a77_360x360H",
+                        "resource": "111480",
+                        "sort": 21,
+                        "spId": 111480,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 550,
+                            "stock": 290,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "蒙牛纯甄酸牛奶 200g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "蒙牛纯甄酸牛奶 200g",
+                                "img": "https://img.dmallcdn.com/20160307/ea1ddd5d-995f-40e8-ad33-975e87a6e11b_360x360H",
+                                "skuId": 173085,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 173085,
+                            "promotionPrice": 520
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160307/ea1ddd5d-995f-40e8-ad33-975e87a6e11b_360x360H",
+                        "resource": "173085",
+                        "sort": 22,
+                        "spId": 173085,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 6600,
+                            "stock": 205,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "君乐宝开啡尔酸奶 200g*12",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "君乐宝开啡尔酸奶 200g*12",
+                                "img": "https://img.dmallcdn.com/20170331/08925877-b0e7-4ee6-803e-db7f0307b969_360x360H",
+                                "skuId": 121864,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121864,
+                            "promotionPrice": 3000
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170331/08925877-b0e7-4ee6-803e-db7f0307b969_360x360H",
+                        "resource": "121864",
+                        "sort": 23,
+                        "spId": 121864,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 660,
+                            "stock": 34,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "蜜桔 4粒",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "蜜桔 4粒",
+                                "img": "https://img.dmallcdn.com/20170905/40410ce9-fc41-4a92-b1e2-42edfd535fdf_360x360H",
+                                "skuId": 100353931,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100353931,
+                            "promotionPrice": 550
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170905/40410ce9-fc41-4a92-b1e2-42edfd535fdf_360x360H",
+                        "resource": "100353931",
+                        "sort": 24,
+                        "spId": 100353931,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 830,
+                            "stock": 29,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "水蜜桃 4粒",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "水蜜桃 4粒",
+                                "img": "https://img.dmallcdn.com/20170817/408383d0-29a8-417e-8ff4-6a9df2f6b45c_360x360H",
+                                "skuId": 107025,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 107025,
+                            "promotionPrice": 830
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/408383d0-29a8-417e-8ff4-6a9df2f6b45c_360x360H",
+                        "resource": "107025",
+                        "sort": 25,
+                        "spId": 107025,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1090,
+                            "stock": 24,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "双汇玉米热狗肠 40g*8",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "双汇玉米热狗肠 40g*8",
+                                "img": "https://img.dmallcdn.com/20170817/a7442e25-3dce-4df6-b2fc-6bd079c056fb_360x360H",
+                                "skuId": 121931,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121931,
+                            "promotionPrice": 799
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/a7442e25-3dce-4df6-b2fc-6bd079c056fb_360x360H",
+                        "resource": "121931",
+                        "sort": 26,
+                        "spId": 121931,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/236/2_360x360H"
+                            ],
+                            "price": 790,
+                            "stock": 7,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "良食记香卤蛋网袋装 30g*8",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "良食记香卤蛋网袋装 30g*8",
+                                "img": "https://img.dmallcdn.com/20160804/d22af570-759d-4d6d-988c-ab2e593b0e60_360x360H",
+                                "skuId": 100246897,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100246897,
+                            "promotionPrice": 699
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160804/d22af570-759d-4d6d-988c-ab2e593b0e60_360x360H",
+                        "resource": "100246897",
+                        "sort": 27,
+                        "spId": 100246897,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 500,
+                            "stock": 22,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "西兰花 1粒",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "西兰花 1粒",
+                                "img": "https://img.dmallcdn.com/20170804/587d72cc-f038-464b-80da-40f2792b263d_360x360H",
+                                "skuId": 105897,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 105897,
+                            "promotionPrice": 500
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170804/587d72cc-f038-464b-80da-40f2792b263d_360x360H",
+                        "resource": "105897",
+                        "sort": 28,
+                        "spId": 105897,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 410,
+                            "stock": 108,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "香菇 300g/1份",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "香菇 300g/1份",
+                                "img": "https://img.dmallcdn.com/20170314/d7636f75-e91d-4701-a79e-adfaec92179b_360x360H",
+                                "skuId": 105926,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 105926,
+                            "promotionPrice": 410
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170314/d7636f75-e91d-4701-a79e-adfaec92179b_360x360H",
+                        "resource": "105926",
+                        "sort": 29,
+                        "spId": 105926,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 650,
+                            "stock": 31,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "完达山大果粒酸奶 黄桃 180g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "完达山大果粒酸奶 黄桃 180g",
+                                "img": "https://img.dmallcdn.com/20160317/7d42ec75-8c7a-4028-b479-b5e433c22cd3_360x360H",
+                                "skuId": 122091,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 122091,
+                            "promotionPrice": 299
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160317/7d42ec75-8c7a-4028-b479-b5e433c22cd3_360x360H",
+                        "resource": "122091",
+                        "sort": 30,
+                        "spId": 122091,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 780,
+                            "stock": 21,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "蒙牛风味发酵乳 原味 100g*8",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "蒙牛风味发酵乳 原味 100g*8",
+                                "img": "https://img.dmallcdn.com/20170817/22bb09bf-1188-41ff-9829-09b8d4e5fd99_360x360H",
+                                "skuId": 100247570,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100247570,
+                            "promotionPrice": 685
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/22bb09bf-1188-41ff-9829-09b8d4e5fd99_360x360H",
+                        "resource": "100247570",
+                        "sort": 31,
+                        "spId": 100247570,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1090,
+                            "stock": 39,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "三元雪凝茯苓酸奶 150g*4",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "三元雪凝茯苓酸奶 150g*4",
+                                "img": "https://img.dmallcdn.com/20160116/7806a97f-11cd-4366-980b-bc6dfc20bb92_360x360H",
+                                "skuId": 121438,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121438,
+                            "promotionPrice": 885
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160116/7806a97f-11cd-4366-980b-bc6dfc20bb92_360x360H",
+                        "resource": "121438",
+                        "sort": 32,
+                        "spId": 121438,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1280,
+                            "stock": 141,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "牛栏山陈酿42度 500ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "牛栏山陈酿42度 500ml",
+                                "img": "https://img.dmallcdn.com/20170720/f22f1dbe-43d6-4fd0-ace7-f2f9dcdfcc4d_360x360H",
+                                "skuId": 118734,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 118734,
+                            "promotionPrice": 1070
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170720/f22f1dbe-43d6-4fd0-ace7-f2f9dcdfcc4d_360x360H",
+                        "resource": "118734",
+                        "sort": 33,
+                        "spId": 118734,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 400,
+                            "stock": 48,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "娃哈哈桂圆莲子八宝粥 360g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "娃哈哈桂圆莲子八宝粥 360g",
+                                "img": "https://img.dmallcdn.com/20170220/3038b11b-5fa3-4113-a8d3-675bb4b72349_360x360H",
+                                "skuId": 117772,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 117772,
+                            "promotionPrice": 400
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170220/3038b11b-5fa3-4113-a8d3-675bb4b72349_360x360H",
+                        "resource": "117772",
+                        "sort": 34,
+                        "spId": 117772,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2990,
+                            "stock": 75,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "维达柔韧舒适卫生纸265节 10卷装",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "维达柔韧舒适卫生纸265节 10卷装",
+                                "img": "https://img.dmallcdn.com/20170330/a3064bb7-b73f-47a3-87c5-091988246a6f_360x360H",
+                                "skuId": 122794,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 122794,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170330/a3064bb7-b73f-47a3-87c5-091988246a6f_360x360H",
+                        "resource": "122794",
+                        "sort": 35,
+                        "spId": 122794,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "stock": 0,
+                            "cornerSign": [],
+                            "price": 270,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "曼可顿手撕包 65g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "曼可顿手撕包 65g",
+                                "img": "https://img.dmallcdn.com/20161110/5dd4af9a-0b69-476b-a5ec-d09c4fe314b6_360x360H",
+                                "skuId": 113234,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 113234,
+                            "promotionPrice": 250
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161110/5dd4af9a-0b69-476b-a5ec-d09c4fe314b6_360x360H",
+                        "resource": "113234",
+                        "sort": 36,
+                        "spId": 113234,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 210,
+                            "stock": 158,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "中盐深井岩盐 350g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "中盐深井岩盐 350g",
+                                "img": "https://img.dmallcdn.com/20170711/08d93511-a4b9-4024-b307-248a2388da53_360x360H",
+                                "skuId": 100304652,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100304652,
+                            "promotionPrice": 210
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170711/08d93511-a4b9-4024-b307-248a2388da53_360x360H",
+                        "resource": "100304652",
+                        "sort": 37,
+                        "spId": 100304652,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 300,
+                            "stock": 377,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "中盐低钠岩盐 350g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "中盐低钠岩盐 350g",
+                                "img": "https://img.dmallcdn.com/20170315/e7028fd6-4585-433a-96e8-bf81d6c0f3e1_360x360H",
+                                "skuId": 100265313,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100265313,
+                            "promotionPrice": 300
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170315/e7028fd6-4585-433a-96e8-bf81d6c0f3e1_360x360H",
+                        "resource": "100265313",
+                        "sort": 38,
+                        "spId": 100265313,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 6600,
+                            "stock": 94,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "伊利安慕希希腊风味酸奶 205g*12",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "伊利安慕希希腊风味酸奶 205g*12",
+                                "img": "https://img.dmallcdn.com/20170402/ee5cec41-21cd-42b2-b2a8-1f3740c2d684_360x360H",
+                                "skuId": 173076,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 173076,
+                            "promotionPrice": 6037
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170402/ee5cec41-21cd-42b2-b2a8-1f3740c2d684_360x360H",
+                        "resource": "173076",
+                        "sort": 39,
+                        "spId": 173076,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 390,
+                            "stock": 69,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "卫龙大面筋 106g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "卫龙大面筋 106g",
+                                "img": "https://img.dmallcdn.com/20161102/474412fc-6cc2-4c0d-9274-c0ec350e85c9_360x360H",
+                                "skuId": 100249176,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100249176,
+                            "promotionPrice": 390
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161102/474412fc-6cc2-4c0d-9274-c0ec350e85c9_360x360H",
+                        "resource": "100249176",
+                        "sort": 40,
+                        "spId": 100249176,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1460,
+                            "stock": 10,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "康师傅大食袋红烧牛肉五包装 127g*5",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 313,
+                                    "type": 3
+                                },
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "满减",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "康师傅大食袋红烧牛肉五包装 127g*5",
+                                "img": "https://img.dmallcdn.com/20161213/ade07022-2afe-4f05-9fb3-f93b6c1b1733_360x360H",
+                                "skuId": 117505,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 117505,
+                            "promotionPrice": 1190
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161213/ade07022-2afe-4f05-9fb3-f93b6c1b1733_360x360H",
+                        "resource": "117505",
+                        "sort": 41,
+                        "spId": 117505,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1219,
+                            "stock": 88,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "巴沙鱼片 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "巴沙鱼片 500g",
+                                "img": "https://img.dmallcdn.com/20170817/5e239955-4121-48db-a0d5-bd556d9426fb_360x360H",
+                                "skuId": 102370,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 102370,
+                            "promotionPrice": 990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/5e239955-4121-48db-a0d5-bd556d9426fb_360x360H",
+                        "resource": "102370",
+                        "sort": 42,
+                        "spId": 102370,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "stock": 0,
+                            "cornerSign": [],
+                            "price": 1080,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "进口香蕉 6根",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "进口香蕉 6根",
+                                "img": "https://img.dmallcdn.com/20170817/cbb99e87-9350-410a-9b04-b3c4294a6a58_360x360H",
+                                "skuId": 100053,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100053,
+                            "promotionPrice": 790
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/cbb99e87-9350-410a-9b04-b3c4294a6a58_360x360H",
+                        "resource": "100053",
+                        "sort": 43,
+                        "spId": 100053,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 490,
+                            "stock": 54,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "尚珍每日坚果 20g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满3免1",
+                                    "subType": 304,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "尚珍每日坚果 20g",
+                                "img": "https://img.dmallcdn.com/20170727/7d3affd8-3a74-4f5d-aced-f5a17029ac0a_360x360H",
+                                "skuId": 100302635,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100302635,
+                            "promotionPrice": 480
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170727/7d3affd8-3a74-4f5d-aced-f5a17029ac0a_360x360H",
+                        "resource": "100302635",
+                        "sort": 44,
+                        "spId": 100302635,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1980,
+                            "stock": 35,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "维达超韧抽取式面巾 130抽*8",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "维达超韧抽取式面巾 130抽*8",
+                                "img": "https://img.dmallcdn.com/20151210/45cde6bb-b54f-4423-80c6-71969aa29129_360x360H",
+                                "skuId": 100197317,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100197317,
+                            "promotionPrice": 1450
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20151210/45cde6bb-b54f-4423-80c6-71969aa29129_360x360H",
+                        "resource": "100197317",
+                        "sort": 45,
+                        "spId": 100197317,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1390,
+                            "stock": 8,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "可口可乐 330ml*6",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "可口可乐 330ml*6",
+                                "img": "https://img.dmallcdn.com/20170727/8e1c43f2-6288-484f-8306-a01a1fceab76_360x360H",
+                                "skuId": 118603,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 118603,
+                            "promotionPrice": 960
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170727/8e1c43f2-6288-484f-8306-a01a1fceab76_360x360H",
+                        "resource": "118603",
+                        "sort": 46,
+                        "spId": 118603,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 780,
+                            "stock": 87,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "王致和大块腐乳 340g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "王致和大块腐乳 340g",
+                                "img": "https://img.dmallcdn.com/20170804/fe569569-01fe-42d8-8a92-560d7b772891_360x360H",
+                                "skuId": 119822,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 119822,
+                            "promotionPrice": 590
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170804/fe569569-01fe-42d8-8a92-560d7b772891_360x360H",
+                        "resource": "119822",
+                        "sort": 47,
+                        "spId": 119822,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 220,
+                            "stock": 89,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "太阳小米锅巴 麻辣味 50g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "太阳小米锅巴 麻辣味 50g",
+                                "img": "https://img.dmallcdn.com/20170711/748743ef-f160-489d-bdaa-0e6203b7d465_360x360H",
+                                "skuId": 114876,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 114876,
+                            "promotionPrice": 180
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170711/748743ef-f160-489d-bdaa-0e6203b7d465_360x360H",
+                        "resource": "114876",
+                        "sort": 48,
+                        "spId": 114876,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1690,
+                            "stock": 27,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "双汇王中王优级火腿肠 40g*10",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "双汇王中王优级火腿肠 40g*10",
+                                "img": "https://img.dmallcdn.com/20170402/fd2788a3-f45e-4b4c-a78a-8591e53a50a1_360x360H",
+                                "skuId": 129313,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 129313,
+                            "promotionPrice": 1150
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170402/fd2788a3-f45e-4b4c-a78a-8591e53a50a1_360x360H",
+                        "resource": "129313",
+                        "sort": 49,
+                        "spId": 129313,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 839,
+                            "stock": 256,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "火龙果（红肉） 1粒装 ",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "火龙果（红肉） 1粒装 ",
+                                "img": "https://img.dmallcdn.com/20170807/858364e1-84a7-412a-afbe-9f2dd31b9c13_360x360H",
+                                "skuId": 100344146,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100344146,
+                            "promotionPrice": 799
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/858364e1-84a7-412a-afbe-9f2dd31b9c13_360x360H",
+                        "resource": "100344146",
+                        "sort": 50,
+                        "spId": 100344146,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 220,
+                            "stock": 12,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "三元特品鲜牛奶 243ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "三元特品鲜牛奶 243ml",
+                                "img": "https://img.dmallcdn.com/20160114/3e5e7a12-de30-4111-b3b6-f4a948ea0f8c_360x360H",
+                                "skuId": 121120,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121120,
+                            "promotionPrice": 215
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160114/3e5e7a12-de30-4111-b3b6-f4a948ea0f8c_360x360H",
+                        "resource": "121120",
+                        "sort": 51,
+                        "spId": 121120,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1100,
+                            "stock": 130,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "养乐多活菌型乳酸菌乳饮品 100ml*5",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "养乐多活菌型乳酸菌乳饮品 100ml*5",
+                                "img": "https://img.dmallcdn.com/20161012/3df37314-ca37-43cf-b197-e2cbd7e3e687_360x360H",
+                                "skuId": 121467,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121467,
+                            "promotionPrice": 1100
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161012/3df37314-ca37-43cf-b197-e2cbd7e3e687_360x360H",
+                        "resource": "121467",
+                        "sort": 52,
+                        "spId": 121467,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1998,
+                            "stock": 999,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "精品五花 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "精品五花 500g",
+                                "img": "https://img.dmallcdn.com/20170817/717a5c36-e40b-488b-ae62-f2e46902cae1_360x360H",
+                                "skuId": 109008,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 109008,
+                            "promotionPrice": 1650
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/717a5c36-e40b-488b-ae62-f2e46902cae1_360x360H",
+                        "resource": "109008",
+                        "sort": 53,
+                        "spId": 109008,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1398,
+                            "stock": 999,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "精品后尖 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "精品后尖 500g",
+                                "img": "https://img.dmallcdn.com/20170817/67fa4622-af60-4cc3-b5ae-8824ee5222ac_360x360H",
+                                "skuId": 109010,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 109010,
+                            "promotionPrice": 1350
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/67fa4622-af60-4cc3-b5ae-8824ee5222ac_360x360H",
+                        "resource": "109010",
+                        "sort": 54,
+                        "spId": 109010,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 5300,
+                            "stock": 2,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "蒙牛新养道全脂零乳糖 250ml*12",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "蒙牛新养道全脂零乳糖 250ml*12",
+                                "img": "https://img.dmallcdn.com/20150420/7be5f294-f0b2-40d6-9154-2cab44761366_360x360H",
+                                "skuId": 121279,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 121279,
+                            "promotionPrice": 4463
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20150420/7be5f294-f0b2-40d6-9154-2cab44761366_360x360H",
+                        "resource": "121279",
+                        "sort": 55,
+                        "spId": 121279,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 300,
+                            "stock": 6,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "三元超高温利乐砖牛奶 250ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满3免1",
+                                    "subType": 304,
+                                    "type": 3
+                                },
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "满3免1",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "三元超高温利乐砖牛奶 250ml",
+                                "img": "https://img.dmallcdn.com/20170720/bac0a6f2-bbd4-46bd-8189-cd2f127809ca_360x360H",
+                                "skuId": 122000,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 122000,
+                            "promotionPrice": 197
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170720/bac0a6f2-bbd4-46bd-8189-cd2f127809ca_360x360H",
+                        "resource": "122000",
+                        "sort": 56,
+                        "spId": 122000,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3190,
+                            "stock": 13,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "维达超韧三层无芯卷纸 1800g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "维达超韧三层无芯卷纸 1800g",
+                                "img": "https://img.dmallcdn.com/20170103/d3f67e1c-3991-4675-9890-98fa1068ca37_360x360H",
+                                "skuId": 122860,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 122860,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170103/d3f67e1c-3991-4675-9890-98fa1068ca37_360x360H",
+                        "resource": "122860",
+                        "sort": 57,
+                        "spId": 122860,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1980,
+                            "stock": 27,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "古船富强粉 5kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "古船富强粉 5kg",
+                                "img": "https://img.dmallcdn.com/20170616/fca9d2d9-ee5f-40bf-911c-71f39bc5a1c6_360x360H",
+                                "skuId": 116382,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 116382,
+                            "promotionPrice": 1659
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170616/fca9d2d9-ee5f-40bf-911c-71f39bc5a1c6_360x360H",
+                        "resource": "116382",
+                        "sort": 58,
+                        "spId": 116382,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1590,
+                            "stock": 71,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "心相印红悦三层抽纸  270张*6",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "心相印红悦三层抽纸  270张*6",
+                                "img": "https://img.dmallcdn.com/20170914/c2ec8cb7-d6a1-4f54-8299-3b0a004b1135_360x360H",
+                                "skuId": 180223,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 180223,
+                            "promotionPrice": 1280
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170914/c2ec8cb7-d6a1-4f54-8299-3b0a004b1135_360x360H",
+                        "resource": "180223",
+                        "sort": 59,
+                        "spId": 180223,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 990,
+                            "stock": 999,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "鸡翅根 500g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "鸡翅根 500g",
+                                "img": "https://img.dmallcdn.com/20170817/cf61f7b6-3c7f-4928-99ff-8bf31dd836d2_360x360H",
+                                "skuId": 111477,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 111477,
+                            "promotionPrice": 990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/cf61f7b6-3c7f-4928-99ff-8bf31dd836d2_360x360H",
+                        "resource": "111477",
+                        "sort": 60,
+                        "spId": 111477,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 590,
+                            "stock": 138,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "可口可乐 2L",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "可口可乐 2L",
+                                "img": "https://img.dmallcdn.com/20170817/6d7efde9-ad3b-4cc1-8976-9ed45c763f07_360x360H",
+                                "skuId": 118591,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 118591,
+                            "promotionPrice": 480
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/6d7efde9-ad3b-4cc1-8976-9ed45c763f07_360x360H",
+                        "resource": "118591",
+                        "sort": 61,
+                        "spId": 118591,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/238/2_360x360H"
+                            ],
+                            "price": 1390,
+                            "stock": 27,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "给你省长方形玻璃保鲜盒 800mL",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "给你省长方形玻璃保鲜盒 800mL",
+                                "img": "https://img.dmallcdn.com/20170629/bc7f1b34-d9e3-4180-8ea7-6ec72aae2693_360x360H",
+                                "skuId": 100246852,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100246852,
+                            "promotionPrice": 1390
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170629/bc7f1b34-d9e3-4180-8ea7-6ec72aae2693_360x360H",
+                        "resource": "100246852",
+                        "sort": 62,
+                        "spId": 100246852,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3150,
+                            "stock": 54,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "云南白药牙膏 留兰香型 180g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "云南白药牙膏 留兰香型 180g",
+                                "img": "https://img.dmallcdn.com/20170807/fd0f5174-c478-4faa-a58e-d95fc2eb8fa5_360x360H",
+                                "skuId": 124765,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 124765,
+                            "promotionPrice": 3150
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/fd0f5174-c478-4faa-a58e-d95fc2eb8fa5_360x360H",
+                        "resource": "124765",
+                        "sort": 63,
+                        "spId": 124765,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 690,
+                            "stock": 74,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "爱特福84消毒液 840ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "爱特福84消毒液 840ml",
+                                "img": "https://img.dmallcdn.com/20170220/351c4931-519e-4c03-a95d-24caaad27053_360x360H",
+                                "skuId": 130086,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 130086,
+                            "promotionPrice": 299
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170220/351c4931-519e-4c03-a95d-24caaad27053_360x360H",
+                        "resource": "130086",
+                        "sort": 64,
+                        "spId": 130086,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2980,
+                            "stock": 37,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "苏菲超熟睡随心翻夜用卫生巾420mm 无香 15片",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10445,
+                                "title": "苏菲超熟睡随心翻夜用卫生巾420mm 无香 15片",
+                                "img": "https://img.dmallcdn.com/20170817/36b80717-534c-47b5-8081-73d4c3c87101_360x360H",
+                                "skuId": 100133,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100133,
+                            "promotionPrice": 2480
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/36b80717-534c-47b5-8081-73d4c3c87101_360x360H",
+                        "resource": "100133",
+                        "sort": 65,
+                        "spId": 100133,
+                        "storeId": 10445,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/237/2_360x360H"
+                            ],
+                            "price": 1490,
+                            "stock": 31,
+                            "skuType": 1,
+                            "sell": true,
+                            "name": "唯本生活男塑拖 250-275mm",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10445,
+                                "title": "唯本生活男塑拖 250-275mm",
+                                "img": "https://img.dmallcdn.com/20160711/9c5fecce-72f0-461d-b3ed-d0f0170f1831_360x360H",
+                                "skuId": 100246767,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100246767,
+                            "promotionPrice": 1490
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20160711/9c5fecce-72f0-461d-b3ed-d0f0170f1831_360x360H",
+                        "resource": "100246767",
+                        "sort": 66,
+                        "spId": 100246767,
+                        "storeId": 10445,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "猜你喜欢",
+                    "ratio": 1,
+                    "margin": 2,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "猜你喜欢",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 45,
+                "spId": -1
+            },
+            {
+                "dataList": [],
+                "displayType": 147,
+                "groupFeature": {
+                    "title": "附近门店",
+                    "ratio": 10445,
+                    "margin": 20,
+                    "showTitle": true
+                },
+                "moduleType": 147,
+                "name": "附近门店",
+                "showBgImg": false,
+                "showName": true,
+                "sort": 46,
+                "spId": -1
+            }
+        ]
+    },
+    "errCode": "0000",
+    "errMsg": ""
+}
