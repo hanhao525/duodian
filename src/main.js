@@ -10,6 +10,9 @@ import router from './router'
 //引入axios
 import axios from 'axios'
 Vue.prototype.axios = axios;
+
+import resource from 'vue-resource'
+Vue.use(resource);
 //全局样式
 import './assets/css/reset.css';
 

@@ -2,47 +2,15 @@
     <div class="main clear">       
          <div class="caidan">
            <ul>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
+             <li v-for = "item in list1">
+               <img :src="item.imageUrl" alt="">
+               <p>{{ item.remark }}</p>
+             </li>            
            </ul>
            <ul>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
-             </li>
-             <li>
-               <img src="../components/img/c1.png" alt="">
-               <p>早晚市</p>
+             <li v-for = "item in list2">
+               <img :src="item.imageUrl" alt="">
+               <p>{{ item.remark }}</p>
              </li>
            </ul>
          </div>
@@ -55,40 +23,22 @@
          </div>
          <div class="mould">
            <ul>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
-             </li>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
-             </li>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
+             <li v-for="item in list3">
+               <img :src="item.imageUrl" alt="">
+             </li>            
+           </ul>
+         </div>
+         <div class="mould">
+           <ul>
+             <li v-for="item in list4">
+               <img :src="item.imageUrl" alt="">
              </li>
            </ul>
          </div>
          <div class="mould">
            <ul>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
-             </li>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
-             </li>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
-             </li>
-           </ul>
-         </div>
-         <div class="mould">
-           <ul>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
-             </li>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
-             </li>
-             <li>
-               <img src="../components/img/mod1.png" alt="">
+             <li v-for="item in list5">
+               <img :src="item.imageUrl" alt="">
              </li>
            </ul>
          </div>
@@ -151,140 +101,232 @@
          </div>
          <!-- 机制生鲜 -->
          <div class="jzsx">
-           <div class="jzsx-t">
-             <img src="../components/img/zhu7.png" alt="">
+           <div class="jzsx-t" v-for="item in listx0">
+             <img :src="item.imageUrl" alt="">
            </div>
            <div class="jzsx-m">
              <ul>
-               <li>
+               <li v-for="item in listx1">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+             <ul>
+               <li v-for="item in listx2">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+             <ul>
+               <li v-for="item in listx3">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+             <ul>
+               <li v-for="item in listx4">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+             <ul>
+               <li v-for="item in listx5">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+           </div>
+         </div>
+        <!-- 舌尖美味 -->
+        <div class="jzsx">
+           <div class="jzsx-t" v-for="item in lists0">
+             <img :src="item.imageUrl" alt="">
+           </div>
+           <div class="jzsx-m">
+             <ul>
+               <li v-for="item in lists1">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+             <ul>
+               <li v-for="item in lists2">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+             <ul>
+               <li v-for="item in lists3">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
                    </div>
                  </div>
                </li>
-               <li>
+             </ul>
+             <ul>
+               <li v-for="item in lists4">
                  <a href="#">
-                   <img src="../components/img/zhu8.jpg" alt="">
+                   <img :src="item.imageUrl" alt="">
                  </a>
                  <div class="jzsx-name">
-                   <span>无籽陆葡萄</span>
+                   <span>{{ item.data.name }}</span>
                    <div class="jzsx-price">
-                     <div>￥<em>7.00</em></div>
-                     <b>￥6.30</b>
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
+                   </div>
+                   <div class="add">
+                     <i></i>
+                   </div>
+                 </div>
+               </li>
+             </ul>
+             <ul>
+               <li v-for="item in lists5">
+                 <a href="#">
+                   <img :src="item.imageUrl" alt="">
+                 </a>
+                 <div class="jzsx-name">
+                   <span>{{ item.data.name }}</span>
+                   <div class="jzsx-price">
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
+                   </div>
+                   <div class="add">
+                     <i></i>
+                   </div>
+                 </div>
+               </li>
+             </ul>
+             <ul>
+               <li v-for="item in lists6">
+                 <a href="#">
+                   <img :src="item.imageUrl" alt="">
+                 </a>
+                 <div class="jzsx-name">
+                   <span>{{ item.data.name }}</span>
+                   <div class="jzsx-price">
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
+                   </div>
+                   <div class="add">
+                     <i></i>
+                   </div>
+                 </div>
+               </li>
+             </ul>
+             <ul>
+               <li v-for="item in lists7">
+                 <a href="#">
+                   <img :src="item.imageUrl" alt="">
+                 </a>
+                 <div class="jzsx-name">
+                   <span>{{ item.data.name }}</span>
+                   <div class="jzsx-price">
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
+                   </div>
+                   <div class="add">
+                     <i></i>
+                   </div>
+                 </div>
+               </li>
+             </ul>
+             <ul>
+               <li v-for="item in lists8">
+                 <a href="#">
+                   <img :src="item.imageUrl" alt="">
+                 </a>
+                 <div class="jzsx-name">
+                   <span>{{ item.data.name }}</span>
+                   <div class="jzsx-price">
+                     <div>￥<em>{{ (item.data.price/100).toFixed(2) }}</em></div>
+                     <b>￥{{ (item.data.promotionPrice/100).toFixed(2) }}</b>
                    </div>
                    <div class="add">
                      <i></i>
@@ -302,9 +344,63 @@ export default {
   name: "component_name",
   data () {
     return {
-        
+        list1:[],//菜单1
+        list2:[],//菜单2
+        list3:[],//菜单上
+        list4:[],//菜单中
+        list5:[],//菜单下
+        list6:[],//主题乐园
+        list7:[],//主题乐园
+        listx0:[],//极致生鲜
+        listx1:[],//极致生鲜
+        listx2:[],//极致生鲜
+        listx3:[],//极致生鲜
+        listx4:[],//极致生鲜
+        listx5:[],//极致生鲜
+        lists0:[],//舌尖美味
+        lists1:[],//舌尖美味
+        lists2:[],//舌尖美味
+        lists3:[],//舌尖美味
+        lists4:[],//舌尖美味
+        lists5:[],//舌尖美味
+        lists6:[],//舌尖美味
+        lists7:[],//舌尖美味
+        lists8:[],//舌尖美味
     };
+  },
+  created(){
+    this.request()
+  },
+  methods:{
+    request(){
+      this.$http.get("./static/data/home.json").then(function(req){
+        this.list1 = req.body.data.pageModules[2].dataList;
+        this.list2 = req.body.data.pageModules[3].dataList;
+        this.list3 = req.body.data.pageModules[6].dataList;
+        this.list4 = req.body.data.pageModules[7].dataList;
+        this.list5 = req.body.data.pageModules[8].dataList;
+      })
+      this.$http.get("./static/data/home1.json").then(function(req){
+        console.log(req.body.data.pageModules[1].dataList);
+        this.listx0 = req.body.data.pageModules[0].dataList;
+        this.listx1 = req.body.data.pageModules[1].dataList;
+        this.listx2 = req.body.data.pageModules[2].dataList;
+        this.listx3 = req.body.data.pageModules[3].dataList;
+        this.listx4 = req.body.data.pageModules[4].dataList;
+        this.listx5 = req.body.data.pageModules[5].dataList;
+        this.lists0 = req.body.data.pageModules[6].dataList;
+        this.lists1 = req.body.data.pageModules[7].dataList;
+        this.lists2 = req.body.data.pageModules[8].dataList;
+        this.lists3 = req.body.data.pageModules[9].dataList;
+        this.lists4 = req.body.data.pageModules[10].dataList;
+        this.lists5 = req.body.data.pageModules[11].dataList;
+        this.lists6 = req.body.data.pageModules[12].dataList;
+        this.lists7 = req.body.data.pageModules[13].dataList;
+        this.lists8 = req.body.data.pageModules[14].dataList;
+      })
+    }
   }
+
 }
 </script>
     
