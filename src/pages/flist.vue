@@ -8,10 +8,10 @@
         </div>
         <div class="list">
             <ul>
-                <li v-for="(item, index) in u1" :key="item.id">{{ item.catName }}</li>
+                <li v-for="(item, index) in u1" :key="item.id" @click = "one(index)">{{ item.catName }}</li>
             </ul>
             <ul>
-                <li v-for="(item, index) in u2" :key="item.id">{{ item.catName }}</li>
+                <li v-for="(item, index) in u2" :key="item.id" @click = "two(index)">{{ item.catName }}</li>
             </ul>
             <ul>
                 <li v-for="(item, index) in u3" :key="item.id">{{ item.catName }}</li>
@@ -40,7 +40,17 @@ export default {
               this.u2 = this.u1[0].childCmCategories;
               this.u3 = this.u1[0].childCmCategories[0].childCmCategories;
           })
+      },
+      //第一列目录
+      one(index){
+         this.u2 = this.u1[index].childCmCategories; 
+      },
+      //第二列目录
+      two(index){
+          this.u3 = this.u2[index].childCmCategories;
       }
+      
+      //第三列目录
   }
 }
 </script>
