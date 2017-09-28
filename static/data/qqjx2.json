@@ -1,0 +1,1889 @@
+{
+    "data": {
+        "currentPage": 3,
+        "hasMore": false,
+        "pageModules": [
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1990,
+                            "stock": 289,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 状元红蜜滴阿胶枣 360g",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "第二件5折",
+                                    "subType": 301,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "第二件5折",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 状元红蜜滴阿胶枣 360g",
+                                "img": "https://img.dmallcdn.com/20170908/c264a43a-45d7-44dc-9218-52e7fac15ea6_360x360H",
+                                "skuId": 100354387,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100354387,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170908/c264a43a-45d7-44dc-9218-52e7fac15ea6_360x360H",
+                        "resource": "100354387",
+                        "sort": 1,
+                        "spId": 100354387,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 4590,
+                            "stock": 173,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 一品玉骏枣夹核桃仁 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 一品玉骏枣夹核桃仁 500g",
+                                "img": "https://img.dmallcdn.com/20170913/8114f64d-90d5-49d8-ac9c-bb9d71df2d12_360x360H",
+                                "skuId": 100355397,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100355397,
+                            "promotionPrice": 3990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170913/8114f64d-90d5-49d8-ac9c-bb9d71df2d12_360x360H",
+                        "resource": "100355397",
+                        "sort": 2,
+                        "spId": 100355397,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 8500,
+                            "stock": 130,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 一品玉和田枣五星 450g*3",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 一品玉和田枣五星 450g*3",
+                                "img": "https://img.dmallcdn.com/20170913/77d2a058-65b7-4f62-8094-1255a74f69d3_360x360H",
+                                "skuId": 100355398,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100355398,
+                            "promotionPrice": 7800
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170913/77d2a058-65b7-4f62-8094-1255a74f69d3_360x360H",
+                        "resource": "100355398",
+                        "sort": 3,
+                        "spId": 100355398,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2990,
+                            "stock": 1907,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 思朗酱心手撕面包 1kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 思朗酱心手撕面包 1kg",
+                                "img": "https://img.dmallcdn.com/20170807/79938c54-87f4-41de-9364-533850579c35_360x360H",
+                                "skuId": 100347365,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100347365,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/79938c54-87f4-41de-9364-533850579c35_360x360H",
+                        "resource": "100347365",
+                        "sort": 4,
+                        "spId": 100347365,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1190,
+                            "stock": 327,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 广御园蛋蛋仔 408g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 广御园蛋蛋仔 408g",
+                                "img": "https://img.dmallcdn.com/20170807/bb565280-2b4b-417e-a37d-4cba17ffb876_360x360H",
+                                "skuId": 100347313,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100347313,
+                            "promotionPrice": 1090
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/bb565280-2b4b-417e-a37d-4cba17ffb876_360x360H",
+                        "resource": "100347313",
+                        "sort": 5,
+                        "spId": 100347313,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1880,
+                            "stock": 474,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 张二嘎小粒香南瓜子 240g",
+                            "promotionList": [],
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 张二嘎小粒香南瓜子 240g",
+                                "img": "https://img.dmallcdn.com/20170822/8fbf5151-f2ea-4d45-aee1-4589faa54983_360x360H",
+                                "skuId": 100352120,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100352120,
+                            "promotionPrice": 1880
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170822/8fbf5151-f2ea-4d45-aee1-4589faa54983_360x360H",
+                        "resource": "100352120",
+                        "sort": 6,
+                        "spId": 100352120,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1190,
+                            "stock": 984,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 富锦香辣味猪肉脯 55g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品买赠促销",
+                                    "subTypeName": "买1赠1",
+                                    "subType": 201,
+                                    "type": 2
+                                }
+                            ],
+                            "promotionDisplayLable": "买1赠1",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 富锦香辣味猪肉脯 55g",
+                                "img": "https://img.dmallcdn.com/20170906/63ddd3fd-213c-41c3-b02b-e3f407cded3b_360x360H",
+                                "skuId": 100354386,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100354386,
+                            "promotionPrice": 1190
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170906/63ddd3fd-213c-41c3-b02b-e3f407cded3b_360x360H",
+                        "resource": "100354386",
+                        "sort": 7,
+                        "spId": 100354386,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2990,
+                            "stock": 285,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 思朗纤麸无添糖粗粮消化饼干 1.02kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 思朗纤麸无添糖粗粮消化饼干 1.02kg",
+                                "img": "https://img.dmallcdn.com/20170807/976ffaea-654e-40de-b656-4a78dda24662_360x360H",
+                                "skuId": 100349551,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100349551,
+                            "promotionPrice": 2390
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/976ffaea-654e-40de-b656-4a78dda24662_360x360H",
+                        "resource": "100349551",
+                        "sort": 8,
+                        "spId": 100349551,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1250,
+                            "stock": 116,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " aji惊奇脆片 起士 200g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " aji惊奇脆片 起士 200g",
+                                "img": "https://img.dmallcdn.com/20170907/51fe44e7-815d-4f0a-8446-645362a86bdf_360x360H",
+                                "skuId": 100349575,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100349575,
+                            "promotionPrice": 690
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170907/51fe44e7-815d-4f0a-8446-645362a86bdf_360x360H",
+                        "resource": "100349575",
+                        "sort": 9,
+                        "spId": 100349575,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "休食单品-JX",
+                    "ratio": 1,
+                    "margin": 4,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "休食单品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 34
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/b7053b52-6892-4f67-b1d0-d940fcab0fee_750H",
+                        "resource": "https://a.dmall.com/act/sIWv3fiTg8lY.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/9971ff15-c31a-4ba4-86ad-14c95d024598_750H",
+                        "resource": "https://a.dmall.com/act/bK21zLwhlieT.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "个人护理楼层-JX",
+                    "heightWideRatio": 0.3,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "个人护理楼层-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 35
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3160,
+                            "stock": 8966,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 高洁丝纤巧棉柔日用卫生巾240mm 18片",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 高洁丝纤巧棉柔日用卫生巾240mm 18片",
+                                "img": "https://img.dmallcdn.com/20170901/617c9f8e-905e-40fb-8c1c-dca4e46d949f_360x360H",
+                                "skuId": 100261156,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100261156,
+                            "promotionPrice": 1090
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170901/617c9f8e-905e-40fb-8c1c-dca4e46d949f_360x360H",
+                        "resource": "100261156",
+                        "sort": 1,
+                        "spId": 100261156,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1990,
+                            "stock": 6197,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 纳美小苏打源生护龈牙膏 120g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 纳美小苏打源生护龈牙膏 120g",
+                                "img": "https://img.dmallcdn.com/20161201/456f7b43-8382-423a-b96e-23ee51d5d382_360x360H",
+                                "skuId": 100304306,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100304306,
+                            "promotionPrice": 980
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20161201/456f7b43-8382-423a-b96e-23ee51d5d382_360x360H",
+                        "resource": "100304306",
+                        "sort": 2,
+                        "spId": 100304306,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1590,
+                            "stock": 13006,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 黑人超白矿物盐牙膏 190g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 黑人超白矿物盐牙膏 190g",
+                                "img": "https://img.dmallcdn.com/20170901/79b1b600-2a16-455b-865d-4fc50335f299_360x360H",
+                                "skuId": 100261129,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100261129,
+                            "promotionPrice": 980
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170901/79b1b600-2a16-455b-865d-4fc50335f299_360x360H",
+                        "resource": "100261129",
+                        "sort": 3,
+                        "spId": 100261129,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 5470,
+                            "stock": 991,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 力士水润丝滑洗发乳 750ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 力士水润丝滑洗发乳 750ml",
+                                "img": "https://img.dmallcdn.com/20170901/1f8e0dec-a437-455c-b16e-199f13368fae_360x360H",
+                                "skuId": 100261072,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100261072,
+                            "promotionPrice": 3590
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170901/1f8e0dec-a437-455c-b16e-199f13368fae_360x360H",
+                        "resource": "100261072",
+                        "sort": 4,
+                        "spId": 100261072,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 5990,
+                            "stock": 1156,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 潘婷洗发露 乳液修复 750ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 潘婷洗发露 乳液修复 750ml",
+                                "img": "https://img.dmallcdn.com/20170830/6d68dd66-5779-4d3e-b5b7-a137518d9252_360x360H",
+                                "skuId": 100223204,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100223204,
+                            "promotionPrice": 3960
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170830/6d68dd66-5779-4d3e-b5b7-a137518d9252_360x360H",
+                        "resource": "100223204",
+                        "sort": 5,
+                        "spId": 100223204,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 7380,
+                            "stock": 782,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 沙宣修护水养洗发露 权志龙限量版 500ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 沙宣修护水养洗发露 权志龙限量版 500ml",
+                                "img": "https://img.dmallcdn.com/20170830/b2fa441c-bfae-47c2-8423-3ae618461054_360x360H",
+                                "skuId": 100353840,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100353840,
+                            "promotionPrice": 3690
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170830/b2fa441c-bfae-47c2-8423-3ae618461054_360x360H",
+                        "resource": "100353840",
+                        "sort": 6,
+                        "spId": 100353840,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 4440,
+                            "stock": 1857,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 舒肤佳纯白清香型沐浴露 1L",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 舒肤佳纯白清香型沐浴露 1L",
+                                "img": "https://img.dmallcdn.com/20170830/8ad3585a-5c70-4f79-abdc-3a725dfd49a2_360x360H",
+                                "skuId": 100261221,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100261221,
+                            "promotionPrice": 2820
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170830/8ad3585a-5c70-4f79-abdc-3a725dfd49a2_360x360H",
+                        "resource": "100261221",
+                        "sort": 7,
+                        "spId": 100261221,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 11900,
+                            "stock": 106,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 美迪惠尔水润保湿面膜 25ml*10 韩国",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 美迪惠尔水润保湿面膜 25ml*10 韩国",
+                                "img": "https://img.dmallcdn.com/20170719/78ac4155-bccc-42ac-a95d-7ae41f894264_360x360H",
+                                "skuId": 100347341,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100347341,
+                            "promotionPrice": 8900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170719/78ac4155-bccc-42ac-a95d-7ae41f894264_360x360H",
+                        "resource": "100347341",
+                        "sort": 8,
+                        "spId": 100347341,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/173/1_360x360H"
+                            ],
+                            "price": 22900,
+                            "stock": 1423,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 欧乐B牙膏四支装送电动牙刷D12S（清新140g*2+红肿140g*2 ) ",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 欧乐B牙膏四支装送电动牙刷D12S（清新140g*2+红肿140g*2 ) ",
+                                "img": "https://img.dmallcdn.com/20170817/b98680b0-11f3-4ef3-a9e5-0fef15b3ef04_360x360H",
+                                "skuId": 100310828,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100310828,
+                            "promotionPrice": 12900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/b98680b0-11f3-4ef3-a9e5-0fef15b3ef04_360x360H",
+                        "resource": "100310828",
+                        "sort": 9,
+                        "spId": 100310828,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "个人护理单品-JX",
+                    "ratio": 1,
+                    "margin": 4,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "个人护理单品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 36
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/3e5e6098-b1c1-454a-9f55-f6c2722586d2_750H",
+                        "resource": "https://a.dmall.com/act/X5E2uU8ctlZI.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/7d0c10e4-544f-46b8-bb3f-c46bcdf9deff_750H",
+                        "resource": "https://a.dmall.com/act/hLGjk1FdKQoaiJ.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "家庭清洁楼层-JX",
+                    "heightWideRatio": 0.3,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "家庭清洁楼层-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 37
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2990,
+                            "stock": 12637,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 维达超韧三层无芯卷纸10+2卷 1.8kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 维达超韧三层无芯卷纸10+2卷 1.8kg",
+                                "img": "https://img.dmallcdn.com/20170908/e0e48b3b-55cf-4874-b76a-5d36608d2343_360x360H",
+                                "skuId": 100260987,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100260987,
+                            "promotionPrice": 1890
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170908/e0e48b3b-55cf-4874-b76a-5d36608d2343_360x360H",
+                        "resource": "100260987",
+                        "sort": 1,
+                        "spId": 100260987,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3390,
+                            "stock": 1549,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 心相印心柔系列三层装卷筒卫生纸170g*10粒",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 心相印心柔系列三层装卷筒卫生纸170g*10粒",
+                                "img": "https://img.dmallcdn.com/20170201/0198f8f3-511a-43b2-9085-933ce00fad5c_360x360H",
+                                "skuId": 100230228,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100230228,
+                            "promotionPrice": 1780
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170201/0198f8f3-511a-43b2-9085-933ce00fad5c_360x360H",
+                        "resource": "100230228",
+                        "sort": 2,
+                        "spId": 100230228,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3390,
+                            "stock": 551,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 顺清柔橙A有芯卷纸12卷 1.8kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 顺清柔橙A有芯卷纸12卷 1.8kg",
+                                "img": "https://img.dmallcdn.com/20170904/69b916ad-7ecf-4d7a-93c7-ba50c5d13187_360x360H",
+                                "skuId": 100352114,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100352114,
+                            "promotionPrice": 1890
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170904/69b916ad-7ecf-4d7a-93c7-ba50c5d13187_360x360H",
+                        "resource": "100352114",
+                        "sort": 3,
+                        "spId": 100352114,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 5960,
+                            "stock": 280,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 泉林本色3层有芯卷纸促销装 20卷",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 泉林本色3层有芯卷纸促销装 20卷",
+                                "img": "https://img.dmallcdn.com/20170824/f2d4b113-09da-4845-82de-0ecab5ec0e9d_360x360H",
+                                "skuId": 100352096,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100352096,
+                            "promotionPrice": 2990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170824/f2d4b113-09da-4845-82de-0ecab5ec0e9d_360x360H",
+                        "resource": "100352096",
+                        "sort": 4,
+                        "spId": 100352096,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2790,
+                            "stock": 8142,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 清风原木有芯卫生纸 12卷*270段",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 清风原木有芯卫生纸 12卷*270段",
+                                "img": "https://img.dmallcdn.com/20170901/eff03ace-618e-4638-b1bd-3701ebc00d73_360x360H",
+                                "skuId": 100261002,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100261002,
+                            "promotionPrice": 1880
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170901/eff03ace-618e-4638-b1bd-3701ebc00d73_360x360H",
+                        "resource": "100261002",
+                        "sort": 5,
+                        "spId": 100261002,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 1890,
+                            "stock": 3349,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 金鱼生姜洗涤灵 2kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 金鱼生姜洗涤灵 2kg",
+                                "img": "https://img.dmallcdn.com/20170830/3542d27c-f507-493e-9d03-0cf62c9a3eaa_360x360H",
+                                "skuId": 100260976,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100260976,
+                            "promotionPrice": 1290
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170830/3542d27c-f507-493e-9d03-0cf62c9a3eaa_360x360H",
+                        "resource": "100260976",
+                        "sort": 6,
+                        "spId": 100260976,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 6990,
+                            "stock": 649,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 奥妙酵素除菌除螨洗衣液 3.5kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 奥妙酵素除菌除螨洗衣液 3.5kg",
+                                "img": "https://img.dmallcdn.com/20170330/e5974f4e-479a-4694-a20d-2303ae4c96e0_360x360H",
+                                "skuId": 100349982,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100349982,
+                            "promotionPrice": 3960
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170330/e5974f4e-479a-4694-a20d-2303ae4c96e0_360x360H",
+                        "resource": "100349982",
+                        "sort": 7,
+                        "spId": 100349982,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3390,
+                            "stock": 2233,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 金纺怡神薰衣草促销装 2.8L+600ml",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 金纺怡神薰衣草促销装 2.8L+600ml",
+                                "img": "https://img.dmallcdn.com/20170615/324d4aea-db96-4d55-b5ab-4187f889e088_360x360H",
+                                "skuId": 100349976,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100349976,
+                            "promotionPrice": 2980
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170615/324d4aea-db96-4d55-b5ab-4187f889e088_360x360H",
+                        "resource": "100349976",
+                        "sort": 8,
+                        "spId": 100349976,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 5000,
+                            "stock": 223,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 蓝月亮洁净洗衣液 薰衣草 3kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 蓝月亮洁净洗衣液 薰衣草 3kg",
+                                "img": "https://img.dmallcdn.com/20170830/440d0eb7-28a0-4923-beec-f75055a6fb3f_360x360H",
+                                "skuId": 100231720,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100231720,
+                            "promotionPrice": 3980
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170830/440d0eb7-28a0-4923-beec-f75055a6fb3f_360x360H",
+                        "resource": "100231720",
+                        "sort": 9,
+                        "spId": 100231720,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "家庭清洁单品-JX",
+                    "ratio": 1,
+                    "margin": 4,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "家庭清洁单品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 38
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/722158fb-e6fa-41fe-abab-c240db0607e3_750H",
+                        "resource": "https://a.dmall.com/act/uMTKXeqb3Yf5p.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/29cd71aa-50c4-4011-9a58-6256fc65fefa_750H",
+                        "resource": "https://a.dmall.com/act/QgNzn5TKFvkC1jX.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "母婴楼层-JX",
+                    "heightWideRatio": 0.3,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "母婴楼层-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 39
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 36800,
+                            "stock": 127,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 惠氏启赋幼儿配方奶粉 900g 爱尔兰",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 惠氏启赋幼儿配方奶粉 900g 爱尔兰",
+                                "img": "https://img.dmallcdn.com/20170908/15a59c8c-8f49-4b7d-8811-d04a812d1d3d_360x360H",
+                                "skuId": 100223579,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100223579,
+                            "promotionPrice": 32900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170908/15a59c8c-8f49-4b7d-8811-d04a812d1d3d_360x360H",
+                        "resource": "100223579",
+                        "sort": 1,
+                        "spId": 100223579,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 22800,
+                            "stock": 76,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 美素佳儿金装奶粉3段 900g 荷兰",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 美素佳儿金装奶粉3段 900g 荷兰",
+                                "img": "https://img.dmallcdn.com/20170907/b07d1e05-bcdd-4a0d-99c0-0e09ca535455_360x360H",
+                                "skuId": 100222807,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100222807,
+                            "promotionPrice": 19900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170907/b07d1e05-bcdd-4a0d-99c0-0e09ca535455_360x360H",
+                        "resource": "100222807",
+                        "sort": 2,
+                        "spId": 100222807,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 19850,
+                            "stock": 30,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 美赞臣安儿宝A+奶粉3段 900g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 美赞臣安儿宝A+奶粉3段 900g",
+                                "img": "https://img.dmallcdn.com/20170907/021b807f-9192-474a-9403-533b7371b086_360x360H",
+                                "skuId": 100223700,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100223700,
+                            "promotionPrice": 14900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170907/021b807f-9192-474a-9403-533b7371b086_360x360H",
+                        "resource": "100223700",
+                        "sort": 3,
+                        "spId": 100223700,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3180,
+                            "stock": 195,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 亨氏海洋鱼泥套餐优惠套餐　339g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 亨氏海洋鱼泥套餐优惠套餐　339g",
+                                "img": "https://img.dmallcdn.com/20170901/d06ba08f-f46a-40a2-8344-91720e2b73c3_360x360H",
+                                "skuId": 100327851,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100327851,
+                            "promotionPrice": 2690
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170901/d06ba08f-f46a-40a2-8344-91720e2b73c3_360x360H",
+                        "resource": "100327851",
+                        "sort": 4,
+                        "spId": 100327851,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 10680,
+                            "stock": 264,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 农夫山泉婴幼儿饮用天然水 1L*12",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 农夫山泉婴幼儿饮用天然水 1L*12",
+                                "img": "https://img.dmallcdn.com/20170907/dc3dea78-dffa-4a80-87dd-250d0eb40d73_360x360H",
+                                "skuId": 100323526,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100323526,
+                            "promotionPrice": 8600
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170907/dc3dea78-dffa-4a80-87dd-250d0eb40d73_360x360H",
+                        "resource": "100323526",
+                        "sort": 5,
+                        "spId": 100323526,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 3500,
+                            "stock": 172,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 好孩子婴儿卫生湿巾海洋水润三连包 72片*3",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 好孩子婴儿卫生湿巾海洋水润三连包 72片*3",
+                                "img": "https://img.dmallcdn.com/20170921/af8d8ca6-0f5a-47a1-a6eb-6bef48a0c627_360x360H",
+                                "skuId": 100224813,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100224813,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170921/af8d8ca6-0f5a-47a1-a6eb-6bef48a0c627_360x360H",
+                        "resource": "100224813",
+                        "sort": 6,
+                        "spId": 100224813,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 13500,
+                            "stock": 75,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 好奇超薄超纸尿裤大包XL号 60片",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "满减",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 好奇超薄超纸尿裤大包XL号 60片",
+                                "img": "https://img.dmallcdn.com/20170728/cc7ed8e8-8234-4d5d-9b4c-7ada8ec8acea_360x360H",
+                                "skuId": 100222975,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100222975,
+                            "promotionPrice": 13500
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170728/cc7ed8e8-8234-4d5d-9b4c-7ada8ec8acea_360x360H",
+                        "resource": "100222975",
+                        "sort": 7,
+                        "spId": 100222975,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 15800,
+                            "stock": 177,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 花王妙而舒纸尿裤XL号 44片 日本",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "满减",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 花王妙而舒纸尿裤XL号 44片 日本",
+                                "img": "https://img.dmallcdn.com/20170907/2f69e1de-9668-4ad1-be11-cd4a10d1fa40_360x360H",
+                                "skuId": 100223315,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100223315,
+                            "promotionPrice": 15800
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170907/2f69e1de-9668-4ad1-be11-cd4a10d1fa40_360x360H",
+                        "resource": "100223315",
+                        "sort": 8,
+                        "spId": 100223315,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 11900,
+                            "stock": 66,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 尤妮佳Moony婴儿裤型纸尿裤女L号 44片 日本",
+                            "promotionList": [
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "满减",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 尤妮佳Moony婴儿裤型纸尿裤女L号 44片 日本",
+                                "img": "https://img.dmallcdn.com/20170908/c32b1e52-c753-457e-932a-60fb74facfb0_360x360H",
+                                "skuId": 100260180,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100260180,
+                            "promotionPrice": 11900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170908/c32b1e52-c753-457e-932a-60fb74facfb0_360x360H",
+                        "resource": "100260180",
+                        "sort": 9,
+                        "spId": 100260180,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "母婴单品-JX",
+                    "ratio": 1,
+                    "margin": 4,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "母婴单品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 40
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/5aa78e90-fd8b-4b02-bfcb-5dcb9b631202_750H",
+                        "resource": "https://a.dmall.com/act/uYaAydf13TM.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/ac285434-eef5-4f37-bd00-b9fc59200abf_750H",
+                        "resource": "https://a.dmall.com/act/TS2xgEeCQXfzU.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563610972",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "日百楼层-JX",
+                    "heightWideRatio": 0.3,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "日百楼层-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 41
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 4890,
+                            "stock": 201,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 公牛插座314-1.8米",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 公牛插座314-1.8米",
+                                "img": "https://img.dmallcdn.com/20170901/0d11ff46-a035-4c9b-8bc7-cea3b8dc3647_360x360H",
+                                "skuId": 100261202,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100261202,
+                            "promotionPrice": 3750
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170901/0d11ff46-a035-4c9b-8bc7-cea3b8dc3647_360x360H",
+                        "resource": "100261202",
+                        "sort": 1,
+                        "spId": 100261202,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 4590,
+                            "stock": 38,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 紫丁香茶壶五件套",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 紫丁香茶壶五件套",
+                                "img": "https://img.dmallcdn.com/20170817/e4dd5789-3c34-4d21-9810-52cc4ebae712_360x360H",
+                                "skuId": 100316195,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100316195,
+                            "promotionPrice": 2990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/e4dd5789-3c34-4d21-9810-52cc4ebae712_360x360H",
+                        "resource": "100316195",
+                        "sort": 2,
+                        "spId": 100316195,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 39900,
+                            "stock": 55,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 飞利浦剃须刀S1010 全身水洗三刀头充电式男士干湿双剃",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 飞利浦剃须刀S1010 全身水洗三刀头充电式男士干湿双剃",
+                                "img": "https://img.dmallcdn.com/20170817/dd181054-9014-4517-94c9-1c8ecfc7c76d_360x360H",
+                                "skuId": 100347257,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100347257,
+                            "promotionPrice": 19800
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/dd181054-9014-4517-94c9-1c8ecfc7c76d_360x360H",
+                        "resource": "100347257",
+                        "sort": 3,
+                        "spId": 100347257,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 19800,
+                            "stock": 57,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 金稻离子补水仪蒸脸器KD2331A",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 金稻离子补水仪蒸脸器KD2331A",
+                                "img": "https://img.dmallcdn.com/20170731/67458c19-d1e7-49fa-a392-bf52740d7d50_360x360H",
+                                "skuId": 100348825,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100348825,
+                            "promotionPrice": 11900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170731/67458c19-d1e7-49fa-a392-bf52740d7d50_360x360H",
+                        "resource": "100348825",
+                        "sort": 4,
+                        "spId": 100348825,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 59900,
+                            "stock": 14,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 九阳豆浆机DJ13B-D82SG 1.3L",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 九阳豆浆机DJ13B-D82SG 1.3L",
+                                "img": "https://img.dmallcdn.com/20170829/cfa7b90a-6784-4eec-8e94-3bdf7edff916_360x360H",
+                                "skuId": 100353665,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100353665,
+                            "promotionPrice": 46900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170829/cfa7b90a-6784-4eec-8e94-3bdf7edff916_360x360H",
+                        "resource": "100353665",
+                        "sort": 5,
+                        "spId": 100353665,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 24600,
+                            "stock": 99,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 碧然德滤芯6只 德国",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 碧然德滤芯6只 德国",
+                                "img": "https://img.dmallcdn.com/20170907/06721216-9a71-47f6-be0e-b5fd5336d330_360x360H",
+                                "skuId": 100246931,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100246931,
+                            "promotionPrice": 23900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170907/06721216-9a71-47f6-be0e-b5fd5336d330_360x360H",
+                        "resource": "100246931",
+                        "sort": 6,
+                        "spId": 100246931,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 10800,
+                            "stock": 7,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 乐扣乐扣lock&lock迷你马克杯LHC552 绿色",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 乐扣乐扣lock&lock迷你马克杯LHC552 绿色",
+                                "img": "https://img.dmallcdn.com/20170828/1c178042-76d1-482f-bc02-28198f865ff2_360x360H",
+                                "skuId": 100352760,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100352760,
+                            "promotionPrice": 8900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170828/1c178042-76d1-482f-bc02-28198f865ff2_360x360H",
+                        "resource": "100352760",
+                        "sort": 7,
+                        "spId": 100352760,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 39900,
+                            "stock": 20,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 美的电饭煲4L FS4026",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 美的电饭煲4L FS4026",
+                                "img": "https://img.dmallcdn.com/20170817/854e3ea3-552c-47ea-a0bd-1223b1dfd64b_360x360H",
+                                "skuId": 100342529,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100342529,
+                            "promotionPrice": 28900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/854e3ea3-552c-47ea-a0bd-1223b1dfd64b_360x360H",
+                        "resource": "100342529",
+                        "sort": 8,
+                        "spId": 100342529,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 11900,
+                            "stock": 144,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 苏泊尔炒锅 炫彩易洁不粘炒锅PC30S3",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 苏泊尔炒锅 炫彩易洁不粘炒锅PC30S3",
+                                "img": "https://img.dmallcdn.com/20170830/bb75ae27-3748-4dfa-92a3-3447d23a6c20_360x360H",
+                                "skuId": 100258743,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100258743,
+                            "promotionPrice": 10800
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170830/bb75ae27-3748-4dfa-92a3-3447d23a6c20_360x360H",
+                        "resource": "100258743",
+                        "sort": 9,
+                        "spId": 100258743,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "日百单品-JX",
+                    "ratio": 1,
+                    "margin": 4,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "日百单品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 42
+            }
+        ]
+    },
+    "errCode": "0000",
+    "errMsg": ""
+}

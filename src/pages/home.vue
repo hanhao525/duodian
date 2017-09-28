@@ -27,11 +27,12 @@
            <img src="../components/img/l1.png" alt="">
          </div>
        <!-- 主要内容 -->
-       <ddcs v-show="flag"></ddcs>
-       <qqjx v-show="!flag"></qqjx>
+       <!-- <ddcs v-show="flag"></ddcs>
+       <qqjx v-show="!flag"></qqjx> -->
+       <fhot></fhot>
        <!-- 留白 -->
        <div class="liu">
-
+         已经到底了
        </div>
    </div>
 </template>
@@ -39,6 +40,7 @@
 <script>
 import Ddcs from './ddcs'
 import Qqjx from './qqjx'
+import Fhot from './flist'
 export default {
   name: "component_name",
   data () {
@@ -49,7 +51,8 @@ export default {
   },
   components: {
       Ddcs,
-      Qqjx
+      Qqjx,
+      Fhot
   },
   methods: {
     qie(){
@@ -116,6 +119,9 @@ export default {
       height: 100%;
     }
     .liu{
-      height: 10rem;
+      height: 3rem;
+      text-align: center;
+      line-height: 3rem;
+      font-size: 0.3rem;
     }
 </style>

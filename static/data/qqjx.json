@@ -1,0 +1,1273 @@
+{
+    "data": {
+        "currentPage": 1,
+        "hasMore": true,
+        "pageModules": [
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/40e941b8-d4af-422a-bca1-2d72d8abd63e_750H",
+                        "resource": "https://a.dmall.com/act/PaYFQl4JUE2.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/90a91361-6746-4c52-bdc3-110c6954a3af_750H",
+                        "resource": "https://a.dmall.com/act/2l6Jd7xGC1jtAN.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/2144de94-5167-42bf-a16e-98bf8d645ef4_750H",
+                        "resource": "https://a.dmall.com/act/VHI6lByzY4icuLm.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/124fcb6c-d2e8-44bb-b4da-fe8bbd0584f7_750H",
+                        "resource": "https://a.dmall.com/act/73sOxXUuSAV.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/830d8e93-a803-4963-bce3-078bdca9bc1d_750H",
+                        "resource": "https://a.dmall.com/act/wXxFnEU7rhuIAM.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 5,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/1b37a9b8-25d9-4296-9264-963545484443_750H",
+                        "resource": "https://a.dmall.com/act/2aNpGJKjM5u63g.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 6,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "轮播图-JX",
+                    "heightWideRatio": 0.47,
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "轮播图-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 1
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/74b73f6a-f1ea-4810-9aeb-9a24b6ed1f75_750H",
+                        "resource": "https://a.dmall.com/act/nLmVJX1Bbo.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "品质条-JX",
+                    "heightWideRatio": 0.09,
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "品质条-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 2
+            },
+            {
+                "bgImgUrl": "https://img.dmallcdn.com/mIndex/201701/2648df03-528f-4898-998f-cc08c1632734",
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "新鲜果蔬",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/d132f5f9-bf5a-492b-836f-701e2c3cf700_240x240H",
+                        "remark": "新鲜果蔬",
+                        "resource": "https://a.dmall.com/act/xCuXlvnhqt.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "安心肉蛋",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/06582d21-1fe3-432e-b07c-28494ab491f5_240x240H",
+                        "remark": "安心肉蛋",
+                        "resource": "https://a.dmall.com/act/IkrvOT56W8H.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "冰鲜水产",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/bb0970a0-c284-4ebc-868b-f58061e64b90_240x240H",
+                        "remark": "冰鲜水产",
+                        "resource": "https://a.dmall.com/act/ti3MKkIw81fec4.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "休闲食品",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/799f09d5-bcc5-403e-b65b-efce1314de7b_240x240H",
+                        "remark": "休闲食品",
+                        "resource": "https://a.dmall.com/act/3tX1nj0BOleEYA.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "奶饮熟食",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/ecf007b4-fd29-47fd-b590-678413336661_240x240H",
+                        "remark": "奶饮熟食",
+                        "resource": "https://a.dmall.com/act/57WVCldpUZeAX3tz.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 5,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 120,
+                "groupFeature": {
+                    "title": "功能区3.5上-JX",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 120,
+                "name": "功能区3.5上-JX",
+                "showBgImg": true,
+                "showName": false,
+                "sort": 3
+            },
+            {
+                "bgImgUrl": "https://img.dmallcdn.com/mIndex/201701/6a924f71-091f-4417-99a7-a15660d83068",
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "粮油速食",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/4c3caeac-782c-4d8c-a494-4576274bec7d_240x240H",
+                        "remark": "粮油速食",
+                        "resource": "https://a.dmall.com/act/KU6qIWtsVp2urv.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "酒水饮料",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/b36aab29-3876-4063-b33c-b884a6a5ce19_240x240H",
+                        "remark": "酒水饮料",
+                        "resource": "https://a.dmall.com/act/7TwD1ziZuOdjyC.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "母婴用品",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/24ef677d-5262-43c8-864d-a923ae118148_240x240H",
+                        "remark": "母婴用品",
+                        "resource": "https://a.dmall.com/act/T2lJH7OdvYeEV4.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "清洁洗护",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/b85de6f8-0ef2-4d5f-b5bc-dc72dca006e8_240x240H",
+                        "remark": "清洁洗护",
+                        "resource": "https://a.dmall.com/act/TOSDIgdM3xhQN.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "title": "日用百货",
+                            "showTitle": true
+                        },
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/8e49edab-b31b-4bea-9818-3d3cd9f4cafa_240x240H",
+                        "remark": "日用百货",
+                        "resource": "https://a.dmall.com/act/JOgI04Crke86.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 5,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 120,
+                "groupFeature": {
+                    "title": "功能区下-JX",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 120,
+                "name": "功能区下-JX",
+                "showBgImg": true,
+                "showName": false,
+                "sort": 5
+            },
+            {
+                "bgImgUrl": "https://img.dmallcdn.com/mIndex/201706/bfd89fae-35c7-4f7e-808d-1d8068380484",
+                "dataList": [],
+                "displayType": 139,
+                "groupFeature": {
+                    "title": "搜索栏-JX",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 139,
+                "name": "搜索栏-JX",
+                "showBgImg": true,
+                "showName": false,
+                "sort": 6,
+                "spId": -1
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/d6781809-3e2f-4da1-96a2-ba618215ed56_480x480H",
+                        "resource": "https://a.dmall.com/act/e6SQuUW1xnO.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/d8fc53bb-9545-426f-be1e-c0e33dcd197f_480x480H",
+                        "resource": "https://a.dmall.com/act/d5wKCnv40rfsP1.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/f32f72e7-3bd2-4178-a61c-ca61dcd06213_480x480H",
+                        "resource": "https://a.dmall.com/act/0gL4fQoPGAhTpWIx.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/47954362-f8ab-4ecc-b065-c24b52e416d5_480x480H",
+                        "resource": "https://a.dmall.com/act/4IrXpjNLkKVxG.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 4,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 137,
+                "groupFeature": {
+                    "title": "黄金周热销TOP量贩购&幸运大转盘-JX",
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 137,
+                "name": "黄金周热销TOP量贩购&幸运大转盘-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 8
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/06061d52-f853-4df2-9755-7472e0ce6c6b_750H",
+                        "resource": "1?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "精选会场-JX",
+                    "heightWideRatio": 0.08,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "精选会场-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 10
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/36088f68-27ca-4ec4-b1f5-e5b9890785e5_360x360H",
+                        "resource": "https://a.dmall.com/act/c67OxKAadliCvJpf.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/4def76a4-c20d-4e61-ae3c-9010d189d84d_360x360H",
+                        "resource": "https://a.dmall.com/act/crR08Ah5taq.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/fab75684-1a22-44ae-8529-851505139d39_360x360H",
+                        "resource": "https://a.dmall.com/act/BO3CzWslbiH.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 140,
+                "groupFeature": {
+                    "showHoleBar": false,
+                    "title": "蔬果会场鲜活到家&酒水会场-JX",
+                    "ratio": 1,
+                    "margin": 2,
+                    "showTitle": false
+                },
+                "moduleType": 140,
+                "name": "蔬果会场鲜活到家&酒水会场-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 11
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/a45e9244-9a75-4a4d-ad79-9bd4bd351ff5_360x360H",
+                        "resource": "https://a.dmall.com/act/H1ptjQOa0G3FEc.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/b615479d-3fde-490b-bbaa-d3630e1a627e_360x360H",
+                        "resource": "https://a.dmall.com/act/rcxJYFkSpBu7R.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/dfdefe67-da55-45bd-9fd2-04f8c9a11929_360x360H",
+                        "resource": "https://a.dmall.com/act/XTVnfWQcAhPI.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 140,
+                "groupFeature": {
+                    "showHoleBar": false,
+                    "title": "休闲零食新品尝鲜&牛奶乳品-JX",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 140,
+                "name": "休闲零食新品尝鲜&牛奶乳品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 12
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/300609e6-c062-4058-a643-23c432abef00_360x360H",
+                        "resource": "https://a.dmall.com/act/PyjxoC8NgIwdeF.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/41dd243e-6a70-44e0-a3dc-0e01b2650c23_360x360H",
+                        "resource": "https://a.dmall.com/act/1IvAahDHZS.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/3198f3ee-b398-4f4c-9a90-ac0e8cbcf88e_360x360H",
+                        "resource": "https://a.dmall.com/act/c4FNQWRBeif.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 3,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 140,
+                "groupFeature": {
+                    "showHoleBar": false,
+                    "title": "粮油调味清洁洗护&日用百货-JX",
+                    "ratio": 1,
+                    "margin": 0,
+                    "showTitle": false
+                },
+                "moduleType": 140,
+                "name": "粮油调味清洁洗护&日用百货-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 13
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/2f8937ee-4494-4f03-a92a-4564e597012e_750H",
+                        "resource": "1?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 146,
+                "groupFeature": {
+                    "title": "超值单品图-JX",
+                    "heightWideRatio": 0.08,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 146,
+                "name": "超值单品图-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 14
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/167/2_360x360H"
+                            ],
+                            "price": 10340,
+                            "stock": 42,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 箱装椰青 9粒装 9kg 泰国（送开椰器）",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 箱装椰青 9粒装 9kg 泰国（送开椰器）",
+                                "img": "https://img.dmallcdn.com/20170424/a1079526-3660-4019-b637-cfdd5dfd176d_360x360H",
+                                "skuId": 100330842,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100330842,
+                            "promotionPrice": 8990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170424/a1079526-3660-4019-b637-cfdd5dfd176d_360x360H",
+                        "resource": "100330842",
+                        "sort": 1,
+                        "spId": 100330842,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 11880,
+                            "stock": 3156,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 萨克森全脂高温杀菌奶 3.5%脂肪含量 1L*12 德国",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 萨克森全脂高温杀菌奶 3.5%脂肪含量 1L*12 德国",
+                                "img": "https://img.dmallcdn.com/20170921/9ef80d90-cb26-4d72-9967-c7e7d77556c4_360x360H",
+                                "skuId": 100351062,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100351062,
+                            "promotionPrice": 8900
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170921/9ef80d90-cb26-4d72-9967-c7e7d77556c4_360x360H",
+                        "resource": "100351062",
+                        "sort": 2,
+                        "spId": 100351062,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/243/1_360x360H"
+                            ],
+                            "price": 3900,
+                            "stock": 237,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 青岛老五星听啤 330ml*24",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 青岛老五星听啤 330ml*24",
+                                "img": "https://img.dmallcdn.com/20170911/82c585ee-80a2-41e0-8eeb-a26f377eb51e_360x360H",
+                                "skuId": 100355164,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100355164,
+                            "promotionPrice": 1980
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170911/82c585ee-80a2-41e0-8eeb-a26f377eb51e_360x360H",
+                        "resource": "100355164",
+                        "sort": 3,
+                        "spId": 100355164,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2990,
+                            "stock": 1907,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 思朗酱心手撕面包 1kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 思朗酱心手撕面包 1kg",
+                                "img": "https://img.dmallcdn.com/20170807/79938c54-87f4-41de-9364-533850579c35_360x360H",
+                                "skuId": 100347365,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100347365,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170807/79938c54-87f4-41de-9364-533850579c35_360x360H",
+                        "resource": "100347365",
+                        "sort": 4,
+                        "spId": 100347365,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2580,
+                            "stock": 12343,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 金沙河高筋特精粉 5kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 金沙河高筋特精粉 5kg",
+                                "img": "https://img.dmallcdn.com/20170914/dec5fa6d-974a-40d7-963b-93463b98a08a_360x360H",
+                                "skuId": 100350109,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100350109,
+                            "promotionPrice": 1990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170914/dec5fa6d-974a-40d7-963b-93463b98a08a_360x360H",
+                        "resource": "100350109",
+                        "sort": 5,
+                        "spId": 100350109,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [],
+                            "price": 2990,
+                            "stock": 12637,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 维达超韧三层无芯卷纸10+2卷 1.8kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 维达超韧三层无芯卷纸10+2卷 1.8kg",
+                                "img": "https://img.dmallcdn.com/20170908/e0e48b3b-55cf-4874-b76a-5d36608d2343_360x360H",
+                                "skuId": 100260987,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100260987,
+                            "promotionPrice": 1890
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170908/e0e48b3b-55cf-4874-b76a-5d36608d2343_360x360H",
+                        "resource": "100260987",
+                        "sort": 6,
+                        "spId": 100260987,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "超值单品-JX",
+                    "ratio": 1,
+                    "margin": 2,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "超值单品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 15
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/60591322-3cd2-4a6e-a9ec-ef3cb975a624_750H",
+                        "resource": "https://a.dmall.com/act/aQeEF736WqGiZ0.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/ff1fab71-958d-4b51-9052-8001c7c60100_750H",
+                        "resource": "https://a.dmall.com/act/yPQR02pWGIrCvsT.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "水果楼层-JX",
+                    "heightWideRatio": 0.3,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "水果楼层-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 16
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/167/2_360x360H"
+                            ],
+                            "price": 920,
+                            "stock": 238,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 陕西冬枣 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 陕西冬枣 500g",
+                                "img": "https://img.dmallcdn.com/20170919/fd88dcbf-92a6-45da-91db-43bb33294fba_360x360H",
+                                "skuId": 100349497,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100349497,
+                            "promotionPrice": 799
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170919/fd88dcbf-92a6-45da-91db-43bb33294fba_360x360H",
+                        "resource": "100349497",
+                        "sort": 1,
+                        "spId": 100349497,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/167/2_360x360H"
+                            ],
+                            "price": 920,
+                            "stock": 344,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": "优选红富士 1.5kg",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": "优选红富士 1.5kg",
+                                "img": "https://img.dmallcdn.com/20170728/535f9ad9-86db-4062-8a7f-cd4a93f8a874_360x360H",
+                                "skuId": 100323442,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100323442,
+                            "promotionPrice": 799
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170728/535f9ad9-86db-4062-8a7f-cd4a93f8a874_360x360H",
+                        "resource": "100323442",
+                        "sort": 2,
+                        "spId": 100323442,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/167/2_360x360H"
+                            ],
+                            "price": 1140,
+                            "stock": 99,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 欢乐果园无籽露葡萄 500g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 欢乐果园无籽露葡萄 500g",
+                                "img": "https://img.dmallcdn.com/20170831/8d9c1cc9-9c81-4005-b27b-355b5088ff6c_360x360H",
+                                "skuId": 100353926,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100353926,
+                            "promotionPrice": 990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170831/8d9c1cc9-9c81-4005-b27b-355b5088ff6c_360x360H",
+                        "resource": "100353926",
+                        "sort": 3,
+                        "spId": 100353926,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/167/2_360x360H"
+                            ],
+                            "price": 1140,
+                            "stock": 127,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 进口香蕉1把 菲律宾",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 进口香蕉1把 菲律宾",
+                                "img": "https://img.dmallcdn.com/20170728/f9b1d457-6243-4363-a190-9f1823e54c32_360x360H",
+                                "skuId": 100345069,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100345069,
+                            "promotionPrice": 990
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170728/f9b1d457-6243-4363-a190-9f1823e54c32_360x360H",
+                        "resource": "100345069",
+                        "sort": 4,
+                        "spId": 100345069,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/167/2_360x360H"
+                            ],
+                            "price": 1370,
+                            "stock": 87,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 新奇士橙 550g/2粒",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "条件促销",
+                                    "subTypeName": "满减",
+                                    "subType": 312,
+                                    "type": 3
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 新奇士橙 550g/2粒",
+                                "img": "https://img.dmallcdn.com/20170921/f27b9863-5403-439c-be09-68e8e428858a_360x360H",
+                                "skuId": 100324979,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100324979,
+                            "promotionPrice": 1190
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170921/f27b9863-5403-439c-be09-68e8e428858a_360x360H",
+                        "resource": "100324979",
+                        "sort": 5,
+                        "spId": 100324979,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/227/1_360x360H"
+                            ],
+                            "price": 1470,
+                            "stock": 94,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 安岳黄柠檬一级中果  3粒/260g",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "单品买赠促销",
+                                    "subTypeName": "买1赠1",
+                                    "subType": 201,
+                                    "type": 2
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 安岳黄柠檬一级中果  3粒/260g",
+                                "img": "https://img.dmallcdn.com/20170828/086d4e3a-a026-48be-aaab-d8ce13a7ab03_360x360H",
+                                "skuId": 100346247,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100346247,
+                            "promotionPrice": 1280
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170828/086d4e3a-a026-48be-aaab-d8ce13a7ab03_360x360H",
+                        "resource": "100346247",
+                        "sort": 6,
+                        "spId": 100346247,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/227/1_360x360H"
+                            ],
+                            "price": 1560,
+                            "stock": 888,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 琯溪蜜柚 900g/1粒",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "单品买赠促销",
+                                    "subTypeName": "买1赠1",
+                                    "subType": 201,
+                                    "type": 2
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 琯溪蜜柚 900g/1粒",
+                                "img": "https://img.dmallcdn.com/20170910/5a9555b7-f697-4e05-bf36-1311e860f9e9_360x360H",
+                                "skuId": 100355024,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100355024,
+                            "promotionPrice": 1360
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170910/5a9555b7-f697-4e05-bf36-1311e860f9e9_360x360H",
+                        "resource": "100355024",
+                        "sort": 7,
+                        "spId": 100355024,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/227/1_360x360H"
+                            ],
+                            "price": 1600,
+                            "stock": 196,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 百香果一级（中大果） 3粒/250g 越南",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "单品买赠促销",
+                                    "subTypeName": "买1赠1",
+                                    "subType": 201,
+                                    "type": 2
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 百香果一级（中大果） 3粒/250g 越南",
+                                "img": "https://img.dmallcdn.com/20170921/715e0abd-2fdc-4c0c-9c5f-56c397d3e075_360x360H",
+                                "skuId": 100244313,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100244313,
+                            "promotionPrice": 1390
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170921/715e0abd-2fdc-4c0c-9c5f-56c397d3e075_360x360H",
+                        "resource": "100244313",
+                        "sort": 8,
+                        "spId": 100244313,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "data": {
+                            "cornerSign": [
+                                "https://img.dmallcdn.com/cornerMarkV3/227/1_360x360H"
+                            ],
+                            "price": 1680,
+                            "stock": 506,
+                            "skuType": 2,
+                            "sell": true,
+                            "name": " 红肉火龙果 350g/1粒 越南",
+                            "promotionList": [
+                                {
+                                    "typeName": "单品促销",
+                                    "subTypeName": "特价",
+                                    "subType": 102,
+                                    "type": 1
+                                },
+                                {
+                                    "typeName": "单品买赠促销",
+                                    "subTypeName": "买1赠1",
+                                    "subType": 201,
+                                    "type": 2
+                                }
+                            ],
+                            "promotionDisplayLable": "特价",
+                            "skus": {
+                                "shop": 10437,
+                                "title": " 红肉火龙果 350g/1粒 越南",
+                                "img": "https://img.dmallcdn.com/20170817/6a96c4fa-0411-4344-a8ad-f7bab6a1e4ae_360x360H",
+                                "skuId": 100336822,
+                                "promotionInfo": ""
+                            },
+                            "showTitle": false,
+                            "sku": 100336822,
+                            "promotionPrice": 1460
+                        },
+                        "dataType": 3,
+                        "imageUrl": "https://img.dmallcdn.com/20170817/6a96c4fa-0411-4344-a8ad-f7bab6a1e4ae_360x360H",
+                        "resource": "100336822",
+                        "sort": 9,
+                        "spId": 100336822,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 128,
+                "groupFeature": {
+                    "title": "水果单品-JX",
+                    "ratio": 1,
+                    "margin": 4,
+                    "showTitle": false
+                },
+                "moduleType": 128,
+                "name": "水果单品-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 17
+            },
+            {
+                "dataList": [
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/da4299cc-a606-4c33-b36d-013cc09fe6dc_750H",
+                        "resource": "https://a.dmall.com/act/2PjkG0ZT3yah4g.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 1,
+                        "storeId": 10437,
+                        "venderId": 1
+                    },
+                    {
+                        "brandId": 0,
+                        "dataType": 5,
+                        "imageUrl": "https://img.dmallcdn.com/mIndex/201709/8b4a6ca7-715d-4219-b80d-ec1b26d77646_750H",
+                        "resource": "https://a.dmall.com/act/JBFYhf4pLuMUqjH.html?erpStoreId=10437&dmfrom=wx&from=wx&shareKey=1506563366800",
+                        "sort": 2,
+                        "storeId": 10437,
+                        "venderId": 1
+                    }
+                ],
+                "displayType": 119,
+                "groupFeature": {
+                    "title": "蔬菜楼层-JX",
+                    "heightWideRatio": 0.3,
+                    "ratio": 1,
+                    "margin": 18,
+                    "showTitle": false
+                },
+                "moduleType": 119,
+                "name": "蔬菜楼层-JX",
+                "showBgImg": false,
+                "showName": false,
+                "sort": 18
+            }
+        ]
+    },
+    "errCode": "0000",
+    "errMsg": ""
+}
