@@ -49,7 +49,6 @@ export default {
       two(index){
           this.u3 = this.u2[index].childCmCategories;
       }
-      
       //第三列目录
   }
 }

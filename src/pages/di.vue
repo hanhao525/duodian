@@ -57,7 +57,7 @@ export default {
         widows: 100%;
         background: #fff;
         text-align: center;
-        z-index: 999;
+        z-index: 99;
     }
     #di ul{
         display: flex;

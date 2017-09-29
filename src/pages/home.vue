@@ -27,9 +27,9 @@
            <img src="../components/img/l1.png" alt="">
          </div>
        <!-- 主要内容 -->
-       <!-- <ddcs v-show="flag"></ddcs>
-       <qqjx v-show="!flag"></qqjx> -->
-       <fhot></fhot>
+       <ddcs v-show="flag"></ddcs>
+       <qqjx v-show="!flag"></qqjx>
+       <!-- <fhot></fhot> -->
        <!-- 留白 -->
        <div class="liu">
          已经到底了

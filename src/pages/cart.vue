@@ -7,11 +7,12 @@
           <p>李文玺 15688743895</p>
           <p class="sendto">送至 ：昌平(地铁站)按时</p>
         </div>
-        <div class="goshopping">
+        <!-- <div class="goshopping">
           <img src="//img.dmallcdn.com/common/31fd8440-0a94-4aba-a239-6b77e13f9824" >
           <span class="goshopping-span" >购物车还木有商品？</span>
           <span class="orangebth">我要买买买</span>
-        </div>
+        </div> -->
+        <shop></shop>
       </div>
     </div>
     
@@ -20,12 +21,16 @@
 </template>
     
 <script>
+import Shop from './shop'
 export default {
   name: "component_name",
   data () {
     return {
         
     };
+  },
+  components:{
+    Shop
   }
 }
 </script>
