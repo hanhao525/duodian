@@ -11,10 +11,15 @@ import router from './router'
 import axios from 'axios'
 Vue.prototype.axios = axios;
 
+//引入vuex
+import Vuex from 'vuex'
+Vue.use(Vuex)
+
 import resource from 'vue-resource'
 Vue.use(resource);
 //全局样式
 import './assets/css/reset.css';
+import './font_347965_t3ra0og8n2l3ow29/iconfont.css'
 
 //屏幕适配
 import flexible from './assets/js/flexible'

@@ -3,31 +3,31 @@
        <ul>
            <li>
                 <router-link to="/home">
-                    <i class="nav1"></i>
+                    <i class="icon iconfont icon-shouye"></i>
                     <p>首页</p>
                 </router-link>      
            </li>
            <li>
                <router-link to="/fenlei">
-                    <i class="nav2"></i>
+                    <i class="icon iconfont icon-fenlei1"></i>
                     <p>分类</p>
                </router-link>
            </li>
            <li>
                <router-link to="/vip">
-                    <i class="nav3"></i>
+                    <i class="icon iconfont icon-huiyuan"></i>
                     <p>会员</p>
                </router-link>
            </li>
            <li>
                <router-link to="/cart">
-                    <i class="nav4"></i>
+                    <i class="icon iconfont icon-gouwuche-copy"></i>
                     <p>购物车</p>
                </router-link>
            </li>
            <li>
                <router-link to="/mine">
-                    <i class="nav5"></i>
+                    <i class="icon iconfont icon-wode"></i>
                     <p>我的</p>
                </router-link>
            </li>
@@ -64,36 +64,15 @@ export default {
         align-items: center;
         justify-content: space-around;
     }
-    #di li{
+    #di li a{
         /* width: 33.3%; */
         text-align: center;
-    }
-    #di p{
         color: gray;
     }
+    #di  li .router-link-active{
+        color:#fd7c48
+    }
     #di i{
-        display:block; 
-        position: relative;
-        width: 0.57rem;
-        height: 0.57rem;
-        background: url("../components/img/nav.png")no-repeat;
-        background-position: 0 -50px;
-        background-size: 250px auto;
         font-size: 0.5rem;
-    }
-    #di .nav1{
-        background-position: 0 -50px;
-    }
-    #di .nav2{
-        background-position: -50px 0;
-    }
-    #di .nav3{
-        background-position: -100px 0;
-    }
-    #di .nav4{
-        background-position: -150px 0;
-    }
-    #di .nav5{
-        background-position: -200px 0;
     }
 </style>
